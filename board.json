@@ -1,0 +1,5642 @@
+[
+  {
+    "id": "sim-105",
+    "rank": 1,
+    "name": "InterRoll",
+    "symbol": "INTE",
+    "chain": "Aptos",
+    "category": "Infra",
+    "narrative": "L2 / data / interoperability infra",
+    "launchTimeUtc": "2026-11-27T21:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 45,
+    "initialMarketCapUsd": 83881501,
+    "liquidityUsd": 26135240,
+    "liquidityLockedPct": 58,
+    "circulatingSupplyPct": 71,
+    "vestingMonths": 24,
+    "auditStatus": "audited",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 27837,
+      "searchTrendIndex": 88,
+      "holderGrowthPct24h": 152.95,
+      "heatScore": 94
+    },
+    "riskScore": 20,
+    "riskLevel": "low",
+    "opportunityScore": 90,
+    "estimatedValueUsd": 215575458,
+    "estimatedValue": {
+      "fairMarketCapUsd": 215575458,
+      "upsideMultiple": 2.57,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Core farm — staged entry + LP / staking",
+      "suggestedAllocationPct": 5,
+      "entryWindow": "Launch day, staged",
+      "actions": [
+        "Enter in 3 tranches",
+        "Stake / LP the core position for yield",
+        "Farm official points programme if present"
+      ],
+      "exitRule": "Hold core; rebalance if position exceeds 8% of budget or fundamentals change",
+      "reviewCadence": "Weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-033",
+    "rank": 2,
+    "name": "BeaconMesh",
+    "symbol": "BEAC",
+    "chain": "BNB Chain",
+    "category": "DePIN",
+    "narrative": "Decentralised physical infrastructure",
+    "launchTimeUtc": "2026-12-04T19:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 211,
+    "initialMarketCapUsd": 53240606,
+    "liquidityUsd": 12913695,
+    "liquidityLockedPct": 85,
+    "circulatingSupplyPct": 80,
+    "vestingMonths": 6,
+    "auditStatus": "audited",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 18687,
+      "searchTrendIndex": 79,
+      "holderGrowthPct24h": 130.68,
+      "heatScore": 88
+    },
+    "riskScore": 26,
+    "riskLevel": "low",
+    "opportunityScore": 84,
+    "estimatedValueUsd": 99559933,
+    "estimatedValue": {
+      "fairMarketCapUsd": 99559933,
+      "upsideMultiple": 1.87,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Core farm — staged entry + LP / staking",
+      "suggestedAllocationPct": 5,
+      "entryWindow": "Launch day, staged",
+      "actions": [
+        "Enter in 3 tranches",
+        "Stake / LP the core position for yield",
+        "Farm official points programme if present"
+      ],
+      "exitRule": "Hold core; rebalance if position exceeds 8% of budget or fundamentals change",
+      "reviewCadence": "Weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-043",
+    "rank": 3,
+    "name": "FanSocial",
+    "symbol": "FANS2",
+    "chain": "Solana",
+    "category": "Social",
+    "narrative": "Social / creator platform token",
+    "launchTimeUtc": "2026-11-28T19:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 67,
+    "initialMarketCapUsd": 72769277,
+    "liquidityUsd": 27867636,
+    "liquidityLockedPct": 54,
+    "circulatingSupplyPct": 44,
+    "vestingMonths": 12,
+    "auditStatus": "partial",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 43276,
+      "searchTrendIndex": 85,
+      "holderGrowthPct24h": 61.84,
+      "heatScore": 86
+    },
+    "riskScore": 28,
+    "riskLevel": "low",
+    "opportunityScore": 83,
+    "estimatedValueUsd": 150632403,
+    "estimatedValue": {
+      "fairMarketCapUsd": 150632403,
+      "upsideMultiple": 2.07,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Core farm — staged entry + LP / staking",
+      "suggestedAllocationPct": 5,
+      "entryWindow": "Launch day, staged",
+      "actions": [
+        "Enter in 3 tranches",
+        "Stake / LP the core position for yield",
+        "Farm official points programme if present"
+      ],
+      "exitRule": "Hold core; rebalance if position exceeds 8% of budget or fundamentals change",
+      "reviewCadence": "Weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-056",
+    "rank": 4,
+    "name": "TradeLedger",
+    "symbol": "TRAD",
+    "chain": "Arbitrum",
+    "category": "RWA",
+    "narrative": "Real-world asset tokenisation",
+    "launchTimeUtc": "2026-12-02T21:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 165,
+    "initialMarketCapUsd": 84657095,
+    "liquidityUsd": 11444526,
+    "liquidityLockedPct": 89,
+    "circulatingSupplyPct": 50,
+    "vestingMonths": 0,
+    "auditStatus": "none",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 21335,
+      "searchTrendIndex": 95,
+      "holderGrowthPct24h": 134.13,
+      "heatScore": 96
+    },
+    "riskScore": 43,
+    "riskLevel": "medium",
+    "opportunityScore": 83,
+    "estimatedValueUsd": 143917062,
+    "estimatedValue": {
+      "fairMarketCapUsd": 143917062,
+      "upsideMultiple": 1.7,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-112",
+    "rank": 5,
+    "name": "LootGG",
+    "symbol": "LOOT",
+    "chain": "Solana",
+    "category": "Gaming",
+    "narrative": "On-chain game / game studio token",
+    "launchTimeUtc": "2026-11-23T02:00:00.000Z",
+    "launchStatus": "ended",
+    "hoursToLaunch": -70,
+    "initialMarketCapUsd": 76417587,
+    "liquidityUsd": 14469634,
+    "liquidityLockedPct": 10,
+    "circulatingSupplyPct": 32,
+    "vestingMonths": 3,
+    "auditStatus": "audited",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 25602,
+      "searchTrendIndex": 94,
+      "holderGrowthPct24h": 61.46,
+      "heatScore": 89
+    },
+    "riskScore": 30,
+    "riskLevel": "low",
+    "opportunityScore": 83,
+    "estimatedValueUsd": 137551657,
+    "estimatedValue": {
+      "fairMarketCapUsd": 137551657,
+      "upsideMultiple": 1.8,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Core farm — staged entry + LP / staking",
+      "suggestedAllocationPct": 5,
+      "entryWindow": "Staged over 48h",
+      "actions": [
+        "Enter in 3 tranches",
+        "Stake / LP the core position for yield",
+        "Farm official points programme if present"
+      ],
+      "exitRule": "Hold core; rebalance if position exceeds 8% of budget or fundamentals change",
+      "reviewCadence": "Weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-093",
+    "rank": 6,
+    "name": "AssetTrust",
+    "symbol": "ASSE",
+    "chain": "BNB Chain",
+    "category": "RWA",
+    "narrative": "Real-world asset tokenisation",
+    "launchTimeUtc": "2026-12-04T20:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 212,
+    "initialMarketCapUsd": 34917097,
+    "liquidityUsd": 14620464,
+    "liquidityLockedPct": 24,
+    "circulatingSupplyPct": 82,
+    "vestingMonths": 18,
+    "auditStatus": "partial",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 46042,
+      "searchTrendIndex": 83,
+      "holderGrowthPct24h": 136.15,
+      "heatScore": 92
+    },
+    "riskScore": 38,
+    "riskLevel": "medium",
+    "opportunityScore": 82,
+    "estimatedValueUsd": 52375646,
+    "estimatedValue": {
+      "fairMarketCapUsd": 52375646,
+      "upsideMultiple": 1.5,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-060",
+    "rank": 7,
+    "name": "BeaconWorks",
+    "symbol": "BEAC",
+    "chain": "Solana",
+    "category": "DePIN",
+    "narrative": "Decentralised physical infrastructure",
+    "launchTimeUtc": "2026-11-27T01:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 25,
+    "initialMarketCapUsd": 42838323,
+    "liquidityUsd": 10100610,
+    "liquidityLockedPct": 46,
+    "circulatingSupplyPct": 71,
+    "vestingMonths": 6,
+    "auditStatus": "partial",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 37459,
+      "searchTrendIndex": 90,
+      "holderGrowthPct24h": 149.77,
+      "heatScore": 96
+    },
+    "riskScore": 52,
+    "riskLevel": "medium",
+    "opportunityScore": 80,
+    "estimatedValueUsd": 62543952,
+    "estimatedValue": {
+      "fairMarketCapUsd": 62543952,
+      "upsideMultiple": 1.46,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-096",
+    "rank": 8,
+    "name": "ApexSwap",
+    "symbol": "APEX",
+    "chain": "Solana",
+    "category": "DeFi",
+    "narrative": "DEX / lending / yield protocol",
+    "launchTimeUtc": "2026-11-29T15:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 87,
+    "initialMarketCapUsd": 73125780,
+    "liquidityUsd": 22854333,
+    "liquidityLockedPct": 77,
+    "circulatingSupplyPct": 27,
+    "vestingMonths": 0,
+    "auditStatus": "audited",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 42885,
+      "searchTrendIndex": 90,
+      "holderGrowthPct24h": 107.59,
+      "heatScore": 96
+    },
+    "riskScore": 50,
+    "riskLevel": "medium",
+    "opportunityScore": 80,
+    "estimatedValueUsd": 126507599,
+    "estimatedValue": {
+      "fairMarketCapUsd": 126507599,
+      "upsideMultiple": 1.73,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-110",
+    "rank": 9,
+    "name": "OmniLink",
+    "symbol": "OMNI",
+    "chain": "Solana",
+    "category": "Infra",
+    "narrative": "L2 / data / interoperability infra",
+    "launchTimeUtc": "2026-11-28T14:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 62,
+    "initialMarketCapUsd": 50293828,
+    "liquidityUsd": 20893956,
+    "liquidityLockedPct": 87,
+    "circulatingSupplyPct": 47,
+    "vestingMonths": 0,
+    "auditStatus": "audited",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 10713,
+      "searchTrendIndex": 95,
+      "holderGrowthPct24h": 18.27,
+      "heatScore": 77
+    },
+    "riskScore": 20,
+    "riskLevel": "low",
+    "opportunityScore": 80,
+    "estimatedValueUsd": 99078841,
+    "estimatedValue": {
+      "fairMarketCapUsd": 99078841,
+      "upsideMultiple": 1.97,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Core farm — staged entry + LP / staking",
+      "suggestedAllocationPct": 5,
+      "entryWindow": "Launch day, staged",
+      "actions": [
+        "Enter in 3 tranches",
+        "Stake / LP the core position for yield",
+        "Farm official points programme if present"
+      ],
+      "exitRule": "Hold core; rebalance if position exceeds 8% of budget or fundamentals change",
+      "reviewCadence": "Weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-007",
+    "rank": 10,
+    "name": "HyperLink",
+    "symbol": "HYPE",
+    "chain": "BNB Chain",
+    "category": "Infra",
+    "narrative": "L2 / data / interoperability infra",
+    "launchTimeUtc": "2026-11-26T01:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 1,
+    "initialMarketCapUsd": 39076215,
+    "liquidityUsd": 9623551,
+    "liquidityLockedPct": 78,
+    "circulatingSupplyPct": 35,
+    "vestingMonths": 24,
+    "auditStatus": "audited",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 16716,
+      "searchTrendIndex": 61,
+      "holderGrowthPct24h": 98.53,
+      "heatScore": 80
+    },
+    "riskScore": 31,
+    "riskLevel": "low",
+    "opportunityScore": 78,
+    "estimatedValueUsd": 84013862,
+    "estimatedValue": {
+      "fairMarketCapUsd": 84013862,
+      "upsideMultiple": 2.15,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Core farm — staged entry + LP / staking",
+      "suggestedAllocationPct": 5,
+      "entryWindow": "Launch day, staged",
+      "actions": [
+        "Enter in 3 tranches",
+        "Stake / LP the core position for yield",
+        "Farm official points programme if present"
+      ],
+      "exitRule": "Hold core; rebalance if position exceeds 8% of budget or fundamentals change",
+      "reviewCadence": "Weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-019",
+    "rank": 11,
+    "name": "LootQuest",
+    "symbol": "LOOT",
+    "chain": "Aptos",
+    "category": "Gaming",
+    "narrative": "On-chain game / game studio token",
+    "launchTimeUtc": "2026-12-05T16:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 232,
+    "initialMarketCapUsd": 54287585,
+    "liquidityUsd": 15224796,
+    "liquidityLockedPct": 29,
+    "circulatingSupplyPct": 85,
+    "vestingMonths": 18,
+    "auditStatus": "none",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 12145,
+      "searchTrendIndex": 90,
+      "holderGrowthPct24h": 136.72,
+      "heatScore": 92
+    },
+    "riskScore": 54,
+    "riskLevel": "medium",
+    "opportunityScore": 77,
+    "estimatedValueUsd": 90660267,
+    "estimatedValue": {
+      "fairMarketCapUsd": 90660267,
+      "upsideMultiple": 1.67,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-036",
+    "rank": 12,
+    "name": "OracleMind",
+    "symbol": "ORAC2",
+    "chain": "Ethereum",
+    "category": "AI",
+    "narrative": "AI agents / inference network",
+    "launchTimeUtc": "2026-11-26T07:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 7,
+    "initialMarketCapUsd": 55327608,
+    "liquidityUsd": 10048940,
+    "liquidityLockedPct": 80,
+    "circulatingSupplyPct": 75,
+    "vestingMonths": 12,
+    "auditStatus": "unknown",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 30335,
+      "searchTrendIndex": 84,
+      "holderGrowthPct24h": 125.2,
+      "heatScore": 92
+    },
+    "riskScore": 52,
+    "riskLevel": "medium",
+    "opportunityScore": 77,
+    "estimatedValueUsd": 106229007,
+    "estimatedValue": {
+      "fairMarketCapUsd": 106229007,
+      "upsideMultiple": 1.92,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-049",
+    "rank": 13,
+    "name": "HarvestLedger",
+    "symbol": "HARV",
+    "chain": "Ethereum",
+    "category": "RWA",
+    "narrative": "Real-world asset tokenisation",
+    "launchTimeUtc": "2026-12-03T21:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 189,
+    "initialMarketCapUsd": 30119609,
+    "liquidityUsd": 9390021,
+    "liquidityLockedPct": 30,
+    "circulatingSupplyPct": 76,
+    "vestingMonths": 18,
+    "auditStatus": "audited",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 47264,
+      "searchTrendIndex": 86,
+      "holderGrowthPct24h": 79,
+      "heatScore": 90
+    },
+    "riskScore": 49,
+    "riskLevel": "medium",
+    "opportunityScore": 77,
+    "estimatedValueUsd": 39155492,
+    "estimatedValue": {
+      "fairMarketCapUsd": 39155492,
+      "upsideMultiple": 1.3,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-109",
+    "rank": 14,
+    "name": "ForgeRealms",
+    "symbol": "FORG",
+    "chain": "Arbitrum",
+    "category": "Gaming",
+    "narrative": "On-chain game / game studio token",
+    "launchTimeUtc": "2026-11-29T14:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 86,
+    "initialMarketCapUsd": 67930883,
+    "liquidityUsd": 28624099,
+    "liquidityLockedPct": 19,
+    "circulatingSupplyPct": 40,
+    "vestingMonths": 3,
+    "auditStatus": "audited",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 36663,
+      "searchTrendIndex": 69,
+      "holderGrowthPct24h": 89.75,
+      "heatScore": 84
+    },
+    "riskScore": 42,
+    "riskLevel": "medium",
+    "opportunityScore": 77,
+    "estimatedValueUsd": 99179089,
+    "estimatedValue": {
+      "fairMarketCapUsd": 99179089,
+      "upsideMultiple": 1.46,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-002",
+    "rank": 15,
+    "name": "TerraWorks",
+    "symbol": "TERR",
+    "chain": "Base",
+    "category": "DePIN",
+    "narrative": "Decentralised physical infrastructure",
+    "launchTimeUtc": "2026-11-26T08:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 8,
+    "initialMarketCapUsd": 33803122,
+    "liquidityUsd": 10306529,
+    "liquidityLockedPct": 62,
+    "circulatingSupplyPct": 23,
+    "vestingMonths": 24,
+    "auditStatus": "audited",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 17747,
+      "searchTrendIndex": 47,
+      "holderGrowthPct24h": 141.43,
+      "heatScore": 74
+    },
+    "riskScore": 28,
+    "riskLevel": "low",
+    "opportunityScore": 76,
+    "estimatedValueUsd": 45972246,
+    "estimatedValue": {
+      "fairMarketCapUsd": 45972246,
+      "upsideMultiple": 1.36,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Core farm — staged entry + LP / staking",
+      "suggestedAllocationPct": 5,
+      "entryWindow": "Launch day, staged",
+      "actions": [
+        "Enter in 3 tranches",
+        "Stake / LP the core position for yield",
+        "Farm official points programme if present"
+      ],
+      "exitRule": "Hold core; rebalance if position exceeds 8% of budget or fundamentals change",
+      "reviewCadence": "Weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-026",
+    "rank": 16,
+    "name": "ArenaQuest",
+    "symbol": "AREN",
+    "chain": "Aptos",
+    "category": "Gaming",
+    "narrative": "On-chain game / game studio token",
+    "launchTimeUtc": "2026-11-29T13:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 85,
+    "initialMarketCapUsd": 11239420,
+    "liquidityUsd": 4323761,
+    "liquidityLockedPct": 46,
+    "circulatingSupplyPct": 51,
+    "vestingMonths": 12,
+    "auditStatus": "audited",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 3257,
+      "searchTrendIndex": 92,
+      "holderGrowthPct24h": 154.9,
+      "heatScore": 88
+    },
+    "riskScore": 33,
+    "riskLevel": "low",
+    "opportunityScore": 76,
+    "estimatedValueUsd": 23040811,
+    "estimatedValue": {
+      "fairMarketCapUsd": 23040811,
+      "upsideMultiple": 2.05,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Core farm — staged entry + LP / staking",
+      "suggestedAllocationPct": 5,
+      "entryWindow": "Launch day, staged",
+      "actions": [
+        "Enter in 3 tranches",
+        "Stake / LP the core position for yield",
+        "Farm official points programme if present"
+      ],
+      "exitRule": "Hold core; rebalance if position exceeds 8% of budget or fundamentals change",
+      "reviewCadence": "Weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-030",
+    "rank": 17,
+    "name": "DataLink",
+    "symbol": "DATA",
+    "chain": "Solana",
+    "category": "Infra",
+    "narrative": "L2 / data / interoperability infra",
+    "launchTimeUtc": "2026-11-23T20:00:00.000Z",
+    "launchStatus": "ended",
+    "hoursToLaunch": -52,
+    "initialMarketCapUsd": 44845922,
+    "liquidityUsd": 12683394,
+    "liquidityLockedPct": 92,
+    "circulatingSupplyPct": 40,
+    "vestingMonths": 12,
+    "auditStatus": "unknown",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 14989,
+      "searchTrendIndex": 87,
+      "holderGrowthPct24h": 74.53,
+      "heatScore": 86
+    },
+    "riskScore": 47,
+    "riskLevel": "medium",
+    "opportunityScore": 76,
+    "estimatedValueUsd": 68614261,
+    "estimatedValue": {
+      "fairMarketCapUsd": 68614261,
+      "upsideMultiple": 1.53,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Staged over 24h",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-034",
+    "rank": 18,
+    "name": "WifCoin",
+    "symbol": "WIFC",
+    "chain": "BNB Chain",
+    "category": "Meme",
+    "narrative": "Community meme token",
+    "launchTimeUtc": "2026-12-02T06:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 150,
+    "initialMarketCapUsd": 13913692,
+    "liquidityUsd": 4174515,
+    "liquidityLockedPct": 42,
+    "circulatingSupplyPct": 47,
+    "vestingMonths": 6,
+    "auditStatus": "audited",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 13354,
+      "searchTrendIndex": 95,
+      "holderGrowthPct24h": 132.11,
+      "heatScore": 95
+    },
+    "riskScore": 44,
+    "riskLevel": "medium",
+    "opportunityScore": 76,
+    "estimatedValueUsd": 26853426,
+    "estimatedValue": {
+      "fairMarketCapUsd": 26853426,
+      "upsideMultiple": 1.93,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-119",
+    "rank": 19,
+    "name": "ApexLend",
+    "symbol": "APEX",
+    "chain": "Base",
+    "category": "DeFi",
+    "narrative": "DEX / lending / yield protocol",
+    "launchTimeUtc": "2026-12-03T04:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 172,
+    "initialMarketCapUsd": 17912235,
+    "liquidityUsd": 7192073,
+    "liquidityLockedPct": 82,
+    "circulatingSupplyPct": 25,
+    "vestingMonths": 24,
+    "auditStatus": "audited",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 6977,
+      "searchTrendIndex": 84,
+      "holderGrowthPct24h": 43.13,
+      "heatScore": 76
+    },
+    "riskScore": 22,
+    "riskLevel": "low",
+    "opportunityScore": 76,
+    "estimatedValueUsd": 31704656,
+    "estimatedValue": {
+      "fairMarketCapUsd": 31704656,
+      "upsideMultiple": 1.77,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Core farm — staged entry + LP / staking",
+      "suggestedAllocationPct": 5,
+      "entryWindow": "Launch day, staged",
+      "actions": [
+        "Enter in 3 tranches",
+        "Stake / LP the core position for yield",
+        "Farm official points programme if present"
+      ],
+      "exitRule": "Hold core; rebalance if position exceeds 8% of budget or fundamentals change",
+      "reviewCadence": "Weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-120",
+    "rank": 20,
+    "name": "AssetRWA",
+    "symbol": "ASSE2",
+    "chain": "Aptos",
+    "category": "RWA",
+    "narrative": "Real-world asset tokenisation",
+    "launchTimeUtc": "2026-11-29T04:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 76,
+    "initialMarketCapUsd": 35116549,
+    "liquidityUsd": 11830319,
+    "liquidityLockedPct": 39,
+    "circulatingSupplyPct": 55,
+    "vestingMonths": 3,
+    "auditStatus": "audited",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 36137,
+      "searchTrendIndex": 100,
+      "holderGrowthPct24h": 8.84,
+      "heatScore": 82
+    },
+    "riskScore": 41,
+    "riskLevel": "medium",
+    "opportunityScore": 76,
+    "estimatedValueUsd": 68828436,
+    "estimatedValue": {
+      "fairMarketCapUsd": 68828436,
+      "upsideMultiple": 1.96,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-008",
+    "rank": 21,
+    "name": "TribeFans",
+    "symbol": "TRIB2",
+    "chain": "Aptos",
+    "category": "Social",
+    "narrative": "Social / creator platform token",
+    "launchTimeUtc": "2026-12-04T21:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 213,
+    "initialMarketCapUsd": 71741446,
+    "liquidityUsd": 22034993,
+    "liquidityLockedPct": 67,
+    "circulatingSupplyPct": 34,
+    "vestingMonths": 0,
+    "auditStatus": "audited",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 17613,
+      "searchTrendIndex": 66,
+      "holderGrowthPct24h": 120.93,
+      "heatScore": 82
+    },
+    "riskScore": 44,
+    "riskLevel": "medium",
+    "opportunityScore": 75,
+    "estimatedValueUsd": 132721675,
+    "estimatedValue": {
+      "fairMarketCapUsd": 132721675,
+      "upsideMultiple": 1.85,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-100",
+    "rank": 22,
+    "name": "SynapseAI",
+    "symbol": "SYNA",
+    "chain": "Ethereum",
+    "category": "AI",
+    "narrative": "AI agents / inference network",
+    "launchTimeUtc": "2026-12-04T00:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 192,
+    "initialMarketCapUsd": 57998745,
+    "liquidityUsd": 17584623,
+    "liquidityLockedPct": 33,
+    "circulatingSupplyPct": 38,
+    "vestingMonths": 36,
+    "auditStatus": "audited",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 10371,
+      "searchTrendIndex": 100,
+      "holderGrowthPct24h": 7.79,
+      "heatScore": 77
+    },
+    "riskScore": 34,
+    "riskLevel": "low",
+    "opportunityScore": 75,
+    "estimatedValueUsd": 122377352,
+    "estimatedValue": {
+      "fairMarketCapUsd": 122377352,
+      "upsideMultiple": 2.11,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Core farm — staged entry + LP / staking",
+      "suggestedAllocationPct": 5,
+      "entryWindow": "Launch day, staged",
+      "actions": [
+        "Enter in 3 tranches",
+        "Stake / LP the core position for yield",
+        "Farm official points programme if present"
+      ],
+      "exitRule": "Hold core; rebalance if position exceeds 8% of budget or fundamentals change",
+      "reviewCadence": "Weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-042",
+    "rank": 23,
+    "name": "RollRoll",
+    "symbol": "ROLL",
+    "chain": "Sui",
+    "category": "Infra",
+    "narrative": "L2 / data / interoperability infra",
+    "launchTimeUtc": "2026-12-01T20:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 140,
+    "initialMarketCapUsd": 7944349,
+    "liquidityUsd": 3267264,
+    "liquidityLockedPct": 31,
+    "circulatingSupplyPct": 44,
+    "vestingMonths": 36,
+    "auditStatus": "unknown",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 30107,
+      "searchTrendIndex": 93,
+      "holderGrowthPct24h": 105.34,
+      "heatScore": 96
+    },
+    "riskScore": 53,
+    "riskLevel": "medium",
+    "opportunityScore": 73,
+    "estimatedValueUsd": 16603689,
+    "estimatedValue": {
+      "fairMarketCapUsd": 16603689,
+      "upsideMultiple": 2.09,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-080",
+    "rank": 24,
+    "name": "DeltaVault",
+    "symbol": "DELT",
+    "chain": "Base",
+    "category": "DeFi",
+    "narrative": "DEX / lending / yield protocol",
+    "launchTimeUtc": "2026-11-26T04:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 4,
+    "initialMarketCapUsd": 69328941,
+    "liquidityUsd": 6573442,
+    "liquidityLockedPct": 66,
+    "circulatingSupplyPct": 36,
+    "vestingMonths": 12,
+    "auditStatus": "partial",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 8492,
+      "searchTrendIndex": 81,
+      "holderGrowthPct24h": 88.13,
+      "heatScore": 84
+    },
+    "riskScore": 43,
+    "riskLevel": "medium",
+    "opportunityScore": 73,
+    "estimatedValueUsd": 101913543,
+    "estimatedValue": {
+      "fairMarketCapUsd": 101913543,
+      "upsideMultiple": 1.47,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-088",
+    "rank": 25,
+    "name": "PrimeVault",
+    "symbol": "PRIM",
+    "chain": "Base",
+    "category": "DeFi",
+    "narrative": "DEX / lending / yield protocol",
+    "launchTimeUtc": "2026-12-04T21:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 213,
+    "initialMarketCapUsd": 59807054,
+    "liquidityUsd": 6469008,
+    "liquidityLockedPct": 85,
+    "circulatingSupplyPct": 58,
+    "vestingMonths": 36,
+    "auditStatus": "partial",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 24278,
+      "searchTrendIndex": 82,
+      "holderGrowthPct24h": 45.43,
+      "heatScore": 80
+    },
+    "riskScore": 36,
+    "riskLevel": "medium",
+    "opportunityScore": 73,
+    "estimatedValueUsd": 127389025,
+    "estimatedValue": {
+      "fairMarketCapUsd": 127389025,
+      "upsideMultiple": 2.13,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-098",
+    "rank": 26,
+    "name": "ParaLink",
+    "symbol": "PARA",
+    "chain": "Solana",
+    "category": "Infra",
+    "narrative": "L2 / data / interoperability infra",
+    "launchTimeUtc": "2026-11-23T10:00:00.000Z",
+    "launchStatus": "ended",
+    "hoursToLaunch": -62,
+    "initialMarketCapUsd": 60602659,
+    "liquidityUsd": 15022189,
+    "liquidityLockedPct": 56,
+    "circulatingSupplyPct": 16,
+    "vestingMonths": 12,
+    "auditStatus": "audited",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 9291,
+      "searchTrendIndex": 83,
+      "holderGrowthPct24h": 54.96,
+      "heatScore": 79
+    },
+    "riskScore": 45,
+    "riskLevel": "medium",
+    "opportunityScore": 73,
+    "estimatedValueUsd": 118781212,
+    "estimatedValue": {
+      "fairMarketCapUsd": 118781212,
+      "upsideMultiple": 1.96,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Staged over 24h",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-116",
+    "rank": 27,
+    "name": "SynapseProtocol",
+    "symbol": "SYNA",
+    "chain": "Aptos",
+    "category": "AI",
+    "narrative": "AI agents / inference network",
+    "launchTimeUtc": "2026-11-27T06:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 30,
+    "initialMarketCapUsd": 50744369,
+    "liquidityUsd": 21166504,
+    "liquidityLockedPct": 1,
+    "circulatingSupplyPct": 82,
+    "vestingMonths": 24,
+    "auditStatus": "audited",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 42970,
+      "searchTrendIndex": 57,
+      "holderGrowthPct24h": 144.67,
+      "heatScore": 81
+    },
+    "riskScore": 46,
+    "riskLevel": "medium",
+    "opportunityScore": 73,
+    "estimatedValueUsd": 80683547,
+    "estimatedValue": {
+      "fairMarketCapUsd": 80683547,
+      "upsideMultiple": 1.59,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-044",
+    "rank": 28,
+    "name": "VectorMind",
+    "symbol": "VECT",
+    "chain": "Solana",
+    "category": "AI",
+    "narrative": "AI agents / inference network",
+    "launchTimeUtc": "2026-11-25T13:00:00.000Z",
+    "launchStatus": "live",
+    "hoursToLaunch": -11,
+    "initialMarketCapUsd": 20362640,
+    "liquidityUsd": 1953273,
+    "liquidityLockedPct": 25,
+    "circulatingSupplyPct": 27,
+    "vestingMonths": 12,
+    "auditStatus": "unknown",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 28224,
+      "searchTrendIndex": 83,
+      "holderGrowthPct24h": 148.94,
+      "heatScore": 92
+    },
+    "riskScore": 45,
+    "riskLevel": "medium",
+    "opportunityScore": 72,
+    "estimatedValueUsd": 40114401,
+    "estimatedValue": {
+      "fairMarketCapUsd": 40114401,
+      "upsideMultiple": 1.97,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Staged over 24h",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-074",
+    "rank": 29,
+    "name": "LendVault",
+    "symbol": "LEND",
+    "chain": "Sui",
+    "category": "DeFi",
+    "narrative": "DEX / lending / yield protocol",
+    "launchTimeUtc": "2026-11-30T04:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 100,
+    "initialMarketCapUsd": 54088931,
+    "liquidityUsd": 15396488,
+    "liquidityLockedPct": 90,
+    "circulatingSupplyPct": 79,
+    "vestingMonths": 18,
+    "auditStatus": "unknown",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 9123,
+      "searchTrendIndex": 46,
+      "holderGrowthPct24h": 148.47,
+      "heatScore": 71
+    },
+    "riskScore": 35,
+    "riskLevel": "medium",
+    "opportunityScore": 72,
+    "estimatedValueUsd": 100064522,
+    "estimatedValue": {
+      "fairMarketCapUsd": 100064522,
+      "upsideMultiple": 1.85,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-086",
+    "rank": 30,
+    "name": "ForgeQuest",
+    "symbol": "FORG",
+    "chain": "Sui",
+    "category": "Gaming",
+    "narrative": "On-chain game / game studio token",
+    "launchTimeUtc": "2026-12-05T20:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 236,
+    "initialMarketCapUsd": 14461224,
+    "liquidityUsd": 5332932,
+    "liquidityLockedPct": 84,
+    "circulatingSupplyPct": 16,
+    "vestingMonths": 24,
+    "auditStatus": "unknown",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 20952,
+      "searchTrendIndex": 93,
+      "holderGrowthPct24h": 59.51,
+      "heatScore": 87
+    },
+    "riskScore": 46,
+    "riskLevel": "medium",
+    "opportunityScore": 72,
+    "estimatedValueUsd": 22125673,
+    "estimatedValue": {
+      "fairMarketCapUsd": 22125673,
+      "upsideMultiple": 1.53,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-114",
+    "rank": 31,
+    "name": "VaultMarkets",
+    "symbol": "VAUL",
+    "chain": "Arbitrum",
+    "category": "DeFi",
+    "narrative": "DEX / lending / yield protocol",
+    "launchTimeUtc": "2026-12-04T19:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 211,
+    "initialMarketCapUsd": 29580705,
+    "liquidityUsd": 5363603,
+    "liquidityLockedPct": 53,
+    "circulatingSupplyPct": 30,
+    "vestingMonths": 24,
+    "auditStatus": "unknown",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 20967,
+      "searchTrendIndex": 73,
+      "holderGrowthPct24h": 94.8,
+      "heatScore": 85
+    },
+    "riskScore": 44,
+    "riskLevel": "medium",
+    "opportunityScore": 72,
+    "estimatedValueUsd": 47033321,
+    "estimatedValue": {
+      "fairMarketCapUsd": 47033321,
+      "upsideMultiple": 1.59,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-011",
+    "rank": 32,
+    "name": "QuestRealms",
+    "symbol": "QUES",
+    "chain": "Arbitrum",
+    "category": "Gaming",
+    "narrative": "On-chain game / game studio token",
+    "launchTimeUtc": "2026-11-27T05:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 29,
+    "initialMarketCapUsd": 67641932,
+    "liquidityUsd": 14191634,
+    "liquidityLockedPct": 84,
+    "circulatingSupplyPct": 32,
+    "vestingMonths": 36,
+    "auditStatus": "unknown",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 25090,
+      "searchTrendIndex": 49,
+      "holderGrowthPct24h": 82.58,
+      "heatScore": 72
+    },
+    "riskScore": 38,
+    "riskLevel": "medium",
+    "opportunityScore": 71,
+    "estimatedValueUsd": 122431897,
+    "estimatedValue": {
+      "fairMarketCapUsd": 122431897,
+      "upsideMultiple": 1.81,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-081",
+    "rank": 33,
+    "name": "GoldRWA",
+    "symbol": "GOLD",
+    "chain": "Base",
+    "category": "RWA",
+    "narrative": "Real-world asset tokenisation",
+    "launchTimeUtc": "2026-12-04T08:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 200,
+    "initialMarketCapUsd": 18771460,
+    "liquidityUsd": 6720424,
+    "liquidityLockedPct": 85,
+    "circulatingSupplyPct": 10,
+    "vestingMonths": 6,
+    "auditStatus": "partial",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 24131,
+      "searchTrendIndex": 72,
+      "holderGrowthPct24h": 42.99,
+      "heatScore": 75
+    },
+    "riskScore": 34,
+    "riskLevel": "low",
+    "opportunityScore": 71,
+    "estimatedValueUsd": 38669208,
+    "estimatedValue": {
+      "fairMarketCapUsd": 38669208,
+      "upsideMultiple": 2.06,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Core farm — staged entry + LP / staking",
+      "suggestedAllocationPct": 5,
+      "entryWindow": "Launch day, staged",
+      "actions": [
+        "Enter in 3 tranches",
+        "Stake / LP the core position for yield",
+        "Farm official points programme if present"
+      ],
+      "exitRule": "Hold core; rebalance if position exceeds 8% of budget or fundamentals change",
+      "reviewCadence": "Weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-016",
+    "rank": 34,
+    "name": "TribeWave",
+    "symbol": "TRIB",
+    "chain": "Arbitrum",
+    "category": "Social",
+    "narrative": "Social / creator platform token",
+    "launchTimeUtc": "2026-12-03T22:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 190,
+    "initialMarketCapUsd": 18089462,
+    "liquidityUsd": 6581430,
+    "liquidityLockedPct": 91,
+    "circulatingSupplyPct": 79,
+    "vestingMonths": 3,
+    "auditStatus": "partial",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 10897,
+      "searchTrendIndex": 35,
+      "holderGrowthPct24h": 104.25,
+      "heatScore": 67
+    },
+    "riskScore": 23,
+    "riskLevel": "low",
+    "opportunityScore": 70,
+    "estimatedValueUsd": 25687036,
+    "estimatedValue": {
+      "fairMarketCapUsd": 25687036,
+      "upsideMultiple": 1.42,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Core farm — staged entry + LP / staking",
+      "suggestedAllocationPct": 5,
+      "entryWindow": "Launch day, staged",
+      "actions": [
+        "Enter in 3 tranches",
+        "Stake / LP the core position for yield",
+        "Farm official points programme if present"
+      ],
+      "exitRule": "Hold core; rebalance if position exceeds 8% of budget or fundamentals change",
+      "reviewCadence": "Weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-051",
+    "rank": 35,
+    "name": "SocialWave",
+    "symbol": "SOCI",
+    "chain": "Ethereum",
+    "category": "Social",
+    "narrative": "Social / creator platform token",
+    "launchTimeUtc": "2026-12-02T05:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 149,
+    "initialMarketCapUsd": 45798204,
+    "liquidityUsd": 7562626,
+    "liquidityLockedPct": 50,
+    "circulatingSupplyPct": 59,
+    "vestingMonths": 12,
+    "auditStatus": "none",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 14537,
+      "searchTrendIndex": 86,
+      "holderGrowthPct24h": 32.33,
+      "heatScore": 77
+    },
+    "riskScore": 43,
+    "riskLevel": "medium",
+    "opportunityScore": 70,
+    "estimatedValueUsd": 76483001,
+    "estimatedValue": {
+      "fairMarketCapUsd": 76483001,
+      "upsideMultiple": 1.67,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-057",
+    "rank": 36,
+    "name": "RollBridge",
+    "symbol": "ROLL2",
+    "chain": "Ethereum",
+    "category": "Infra",
+    "narrative": "L2 / data / interoperability infra",
+    "launchTimeUtc": "2026-12-02T00:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 144,
+    "initialMarketCapUsd": 48150580,
+    "liquidityUsd": 19759234,
+    "liquidityLockedPct": 55,
+    "circulatingSupplyPct": 53,
+    "vestingMonths": 6,
+    "auditStatus": "audited",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 46623,
+      "searchTrendIndex": 15,
+      "holderGrowthPct24h": 147.16,
+      "heatScore": 62
+    },
+    "riskScore": 27,
+    "riskLevel": "low",
+    "opportunityScore": 70,
+    "estimatedValueUsd": 78485445,
+    "estimatedValue": {
+      "fairMarketCapUsd": 78485445,
+      "upsideMultiple": 1.63,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Core farm — staged entry + LP / staking",
+      "suggestedAllocationPct": 5,
+      "entryWindow": "Launch day, staged",
+      "actions": [
+        "Enter in 3 tranches",
+        "Stake / LP the core position for yield",
+        "Farm official points programme if present"
+      ],
+      "exitRule": "Hold core; rebalance if position exceeds 8% of budget or fundamentals change",
+      "reviewCadence": "Weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-078",
+    "rank": 37,
+    "name": "ForgePlay",
+    "symbol": "FORG2",
+    "chain": "Sui",
+    "category": "Gaming",
+    "narrative": "On-chain game / game studio token",
+    "launchTimeUtc": "2026-11-27T06:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 30,
+    "initialMarketCapUsd": 83623649,
+    "liquidityUsd": 16431630,
+    "liquidityLockedPct": 76,
+    "circulatingSupplyPct": 90,
+    "vestingMonths": 36,
+    "auditStatus": "audited",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 41356,
+      "searchTrendIndex": 76,
+      "holderGrowthPct24h": 17.11,
+      "heatScore": 73
+    },
+    "riskScore": 43,
+    "riskLevel": "medium",
+    "opportunityScore": 70,
+    "estimatedValueUsd": 111219453,
+    "estimatedValue": {
+      "fairMarketCapUsd": 111219453,
+      "upsideMultiple": 1.33,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-012",
+    "rank": 38,
+    "name": "ChadMoon",
+    "symbol": "CHAD",
+    "chain": "Aptos",
+    "category": "Meme",
+    "narrative": "Community meme token",
+    "launchTimeUtc": "2026-11-28T19:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 67,
+    "initialMarketCapUsd": 67066571,
+    "liquidityUsd": 25260147,
+    "liquidityLockedPct": 66,
+    "circulatingSupplyPct": 73,
+    "vestingMonths": 3,
+    "auditStatus": "audited",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 44001,
+      "searchTrendIndex": 74,
+      "holderGrowthPct24h": 22.27,
+      "heatScore": 73
+    },
+    "riskScore": 46,
+    "riskLevel": "medium",
+    "opportunityScore": 69,
+    "estimatedValueUsd": 97246528,
+    "estimatedValue": {
+      "fairMarketCapUsd": 97246528,
+      "upsideMultiple": 1.45,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-063",
+    "rank": 39,
+    "name": "RollLink",
+    "symbol": "ROLL",
+    "chain": "Ethereum",
+    "category": "Infra",
+    "narrative": "L2 / data / interoperability infra",
+    "launchTimeUtc": "2026-11-23T15:00:00.000Z",
+    "launchStatus": "ended",
+    "hoursToLaunch": -57,
+    "initialMarketCapUsd": 33776702,
+    "liquidityUsd": 7477643,
+    "liquidityLockedPct": 10,
+    "circulatingSupplyPct": 57,
+    "vestingMonths": 18,
+    "auditStatus": "audited",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 39083,
+      "searchTrendIndex": 61,
+      "holderGrowthPct24h": 98.35,
+      "heatScore": 82
+    },
+    "riskScore": 52,
+    "riskLevel": "medium",
+    "opportunityScore": 69,
+    "estimatedValueUsd": 54718257,
+    "estimatedValue": {
+      "fairMarketCapUsd": 54718257,
+      "upsideMultiple": 1.62,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Staged over 24h",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-072",
+    "rank": 40,
+    "name": "BlitzArena",
+    "symbol": "BLIT",
+    "chain": "Avalanche",
+    "category": "Gaming",
+    "narrative": "On-chain game / game studio token",
+    "launchTimeUtc": "2026-11-30T19:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 115,
+    "initialMarketCapUsd": 29119703,
+    "liquidityUsd": 9959083,
+    "liquidityLockedPct": 87,
+    "circulatingSupplyPct": 16,
+    "vestingMonths": 36,
+    "auditStatus": "audited",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 23148,
+      "searchTrendIndex": 44,
+      "holderGrowthPct24h": 124.83,
+      "heatScore": 73
+    },
+    "riskScore": 46,
+    "riskLevel": "medium",
+    "opportunityScore": 69,
+    "estimatedValueUsd": 46882722,
+    "estimatedValue": {
+      "fairMarketCapUsd": 46882722,
+      "upsideMultiple": 1.61,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-101",
+    "rank": 41,
+    "name": "TerraMesh",
+    "symbol": "TERR",
+    "chain": "Solana",
+    "category": "DePIN",
+    "narrative": "Decentralised physical infrastructure",
+    "launchTimeUtc": "2026-12-04T01:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 193,
+    "initialMarketCapUsd": 24697919,
+    "liquidityUsd": 1132579,
+    "liquidityLockedPct": 42,
+    "circulatingSupplyPct": 55,
+    "vestingMonths": 0,
+    "auditStatus": "audited",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 40127,
+      "searchTrendIndex": 69,
+      "holderGrowthPct24h": 155.97,
+      "heatScore": 86
+    },
+    "riskScore": 40,
+    "riskLevel": "medium",
+    "opportunityScore": 69,
+    "estimatedValueUsd": 32848232,
+    "estimatedValue": {
+      "fairMarketCapUsd": 32848232,
+      "upsideMultiple": 1.33,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-028",
+    "rank": 42,
+    "name": "SwapMarkets",
+    "symbol": "SWAP",
+    "chain": "Aptos",
+    "category": "DeFi",
+    "narrative": "DEX / lending / yield protocol",
+    "launchTimeUtc": "2026-11-26T12:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 12,
+    "initialMarketCapUsd": 60286771,
+    "liquidityUsd": 10444244,
+    "liquidityLockedPct": 50,
+    "circulatingSupplyPct": 86,
+    "vestingMonths": 36,
+    "auditStatus": "unknown",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 41440,
+      "searchTrendIndex": 32,
+      "holderGrowthPct24h": 82.11,
+      "heatScore": 66
+    },
+    "riskScore": 39,
+    "riskLevel": "medium",
+    "opportunityScore": 68,
+    "estimatedValueUsd": 77167067,
+    "estimatedValue": {
+      "fairMarketCapUsd": 77167067,
+      "upsideMultiple": 1.28,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-055",
+    "rank": 43,
+    "name": "SillyWif",
+    "symbol": "SILL",
+    "chain": "BNB Chain",
+    "category": "Meme",
+    "narrative": "Community meme token",
+    "launchTimeUtc": "2026-12-05T10:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 226,
+    "initialMarketCapUsd": 54740375,
+    "liquidityUsd": 4112597,
+    "liquidityLockedPct": 82,
+    "circulatingSupplyPct": 22,
+    "vestingMonths": 6,
+    "auditStatus": "audited",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 36528,
+      "searchTrendIndex": 72,
+      "holderGrowthPct24h": 32.31,
+      "heatScore": 74
+    },
+    "riskScore": 34,
+    "riskLevel": "low",
+    "opportunityScore": 68,
+    "estimatedValueUsd": 107291135,
+    "estimatedValue": {
+      "fairMarketCapUsd": 107291135,
+      "upsideMultiple": 1.96,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Core farm — staged entry + LP / staking",
+      "suggestedAllocationPct": 5,
+      "entryWindow": "Launch day, staged",
+      "actions": [
+        "Enter in 3 tranches",
+        "Stake / LP the core position for yield",
+        "Farm official points programme if present"
+      ],
+      "exitRule": "Hold core; rebalance if position exceeds 8% of budget or fundamentals change",
+      "reviewCadence": "Weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-064",
+    "rank": 44,
+    "name": "SocialFans",
+    "symbol": "SOCI2",
+    "chain": "Arbitrum",
+    "category": "Social",
+    "narrative": "Social / creator platform token",
+    "launchTimeUtc": "2026-12-04T11:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 203,
+    "initialMarketCapUsd": 68803390,
+    "liquidityUsd": 29237823,
+    "liquidityLockedPct": 93,
+    "circulatingSupplyPct": 30,
+    "vestingMonths": 0,
+    "auditStatus": "none",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 28682,
+      "searchTrendIndex": 31,
+      "holderGrowthPct24h": 108.29,
+      "heatScore": 68
+    },
+    "riskScore": 42,
+    "riskLevel": "medium",
+    "opportunityScore": 68,
+    "estimatedValueUsd": 79811932,
+    "estimatedValue": {
+      "fairMarketCapUsd": 79811932,
+      "upsideMultiple": 1.16,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-108",
+    "rank": 45,
+    "name": "AeroWorks",
+    "symbol": "AERO",
+    "chain": "Solana",
+    "category": "DePIN",
+    "narrative": "Decentralised physical infrastructure",
+    "launchTimeUtc": "2026-11-30T03:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 99,
+    "initialMarketCapUsd": 38287733,
+    "liquidityUsd": 3055676,
+    "liquidityLockedPct": 59,
+    "circulatingSupplyPct": 70,
+    "vestingMonths": 0,
+    "auditStatus": "audited",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 9804,
+      "searchTrendIndex": 72,
+      "holderGrowthPct24h": 49.8,
+      "heatScore": 73
+    },
+    "riskScore": 30,
+    "riskLevel": "low",
+    "opportunityScore": 68,
+    "estimatedValueUsd": 52454194,
+    "estimatedValue": {
+      "fairMarketCapUsd": 52454194,
+      "upsideMultiple": 1.37,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Core farm — staged entry + LP / staking",
+      "suggestedAllocationPct": 5,
+      "entryWindow": "Launch day, staged",
+      "actions": [
+        "Enter in 3 tranches",
+        "Stake / LP the core position for yield",
+        "Farm official points programme if present"
+      ],
+      "exitRule": "Hold core; rebalance if position exceeds 8% of budget or fundamentals change",
+      "reviewCadence": "Weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-117",
+    "rank": 46,
+    "name": "TerraNetwork",
+    "symbol": "TERR",
+    "chain": "Solana",
+    "category": "DePIN",
+    "narrative": "Decentralised physical infrastructure",
+    "launchTimeUtc": "2026-12-01T23:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 143,
+    "initialMarketCapUsd": 2851417,
+    "liquidityUsd": 736138,
+    "liquidityLockedPct": 56,
+    "circulatingSupplyPct": 54,
+    "vestingMonths": 24,
+    "auditStatus": "audited",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 18270,
+      "searchTrendIndex": 93,
+      "holderGrowthPct24h": 28.21,
+      "heatScore": 80
+    },
+    "riskScore": 33,
+    "riskLevel": "low",
+    "opportunityScore": 68,
+    "estimatedValueUsd": 5588777,
+    "estimatedValue": {
+      "fairMarketCapUsd": 5588777,
+      "upsideMultiple": 1.96,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Core farm — staged entry + LP / staking",
+      "suggestedAllocationPct": 5,
+      "entryWindow": "Launch day, staged",
+      "actions": [
+        "Enter in 3 tranches",
+        "Stake / LP the core position for yield",
+        "Farm official points programme if present"
+      ],
+      "exitRule": "Hold core; rebalance if position exceeds 8% of budget or fundamentals change",
+      "reviewCadence": "Weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-061",
+    "rank": 47,
+    "name": "SwapLend",
+    "symbol": "SWAP",
+    "chain": "Sui",
+    "category": "DeFi",
+    "narrative": "DEX / lending / yield protocol",
+    "launchTimeUtc": "2026-11-29T15:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 87,
+    "initialMarketCapUsd": 28791834,
+    "liquidityUsd": 7014090,
+    "liquidityLockedPct": 44,
+    "circulatingSupplyPct": 34,
+    "vestingMonths": 6,
+    "auditStatus": "audited",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 18221,
+      "searchTrendIndex": 75,
+      "holderGrowthPct24h": 56.66,
+      "heatScore": 78
+    },
+    "riskScore": 51,
+    "riskLevel": "medium",
+    "opportunityScore": 67,
+    "estimatedValueUsd": 40596486,
+    "estimatedValue": {
+      "fairMarketCapUsd": 40596486,
+      "upsideMultiple": 1.41,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-084",
+    "rank": 48,
+    "name": "AgentLabs",
+    "symbol": "AGEN",
+    "chain": "Arbitrum",
+    "category": "AI",
+    "narrative": "AI agents / inference network",
+    "launchTimeUtc": "2026-11-30T02:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 98,
+    "initialMarketCapUsd": 15322967,
+    "liquidityUsd": 2380229,
+    "liquidityLockedPct": 88,
+    "circulatingSupplyPct": 36,
+    "vestingMonths": 3,
+    "auditStatus": "audited",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 24067,
+      "searchTrendIndex": 29,
+      "holderGrowthPct24h": 100.27,
+      "heatScore": 67
+    },
+    "riskScore": 22,
+    "riskLevel": "low",
+    "opportunityScore": 67,
+    "estimatedValueUsd": 31871771,
+    "estimatedValue": {
+      "fairMarketCapUsd": 31871771,
+      "upsideMultiple": 2.08,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Core farm — staged entry + LP / staking",
+      "suggestedAllocationPct": 5,
+      "entryWindow": "Launch day, staged",
+      "actions": [
+        "Enter in 3 tranches",
+        "Stake / LP the core position for yield",
+        "Farm official points programme if present"
+      ],
+      "exitRule": "Hold core; rebalance if position exceeds 8% of budget or fundamentals change",
+      "reviewCadence": "Weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-092",
+    "rank": 49,
+    "name": "FluxFi",
+    "symbol": "FLUX2",
+    "chain": "Avalanche",
+    "category": "DeFi",
+    "narrative": "DEX / lending / yield protocol",
+    "launchTimeUtc": "2026-11-29T20:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 92,
+    "initialMarketCapUsd": 18543909,
+    "liquidityUsd": 2844180,
+    "liquidityLockedPct": 60,
+    "circulatingSupplyPct": 76,
+    "vestingMonths": 24,
+    "auditStatus": "none",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 6297,
+      "searchTrendIndex": 81,
+      "holderGrowthPct24h": 134.29,
+      "heatScore": 86
+    },
+    "riskScore": 51,
+    "riskLevel": "medium",
+    "opportunityScore": 67,
+    "estimatedValueUsd": 24107082,
+    "estimatedValue": {
+      "fairMarketCapUsd": 24107082,
+      "upsideMultiple": 1.3,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-094",
+    "rank": 50,
+    "name": "OmniStack",
+    "symbol": "OMNI",
+    "chain": "Sui",
+    "category": "Infra",
+    "narrative": "L2 / data / interoperability infra",
+    "launchTimeUtc": "2026-12-01T07:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 127,
+    "initialMarketCapUsd": 7184850,
+    "liquidityUsd": 2481243,
+    "liquidityLockedPct": 86,
+    "circulatingSupplyPct": 52,
+    "vestingMonths": 18,
+    "auditStatus": "partial",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 29764,
+      "searchTrendIndex": 73,
+      "holderGrowthPct24h": 9.71,
+      "heatScore": 69
+    },
+    "riskScore": 25,
+    "riskLevel": "low",
+    "opportunityScore": 67,
+    "estimatedValueUsd": 13076427,
+    "estimatedValue": {
+      "fairMarketCapUsd": 13076427,
+      "upsideMultiple": 1.82,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Core farm — staged entry + LP / staking",
+      "suggestedAllocationPct": 5,
+      "entryWindow": "Launch day, staged",
+      "actions": [
+        "Enter in 3 tranches",
+        "Stake / LP the core position for yield",
+        "Farm official points programme if present"
+      ],
+      "exitRule": "Hold core; rebalance if position exceeds 8% of budget or fundamentals change",
+      "reviewCadence": "Weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-111",
+    "rank": 51,
+    "name": "MindAI",
+    "symbol": "MIND",
+    "chain": "BNB Chain",
+    "category": "AI",
+    "narrative": "AI agents / inference network",
+    "launchTimeUtc": "2026-12-03T15:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 183,
+    "initialMarketCapUsd": 84645260,
+    "liquidityUsd": 6111158,
+    "liquidityLockedPct": 63,
+    "circulatingSupplyPct": 64,
+    "vestingMonths": 18,
+    "auditStatus": "audited",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 18167,
+      "searchTrendIndex": 23,
+      "holderGrowthPct24h": 159.86,
+      "heatScore": 63
+    },
+    "riskScore": 24,
+    "riskLevel": "low",
+    "opportunityScore": 67,
+    "estimatedValueUsd": 109192385,
+    "estimatedValue": {
+      "fairMarketCapUsd": 109192385,
+      "upsideMultiple": 1.29,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Core farm — staged entry + LP / staking",
+      "suggestedAllocationPct": 5,
+      "entryWindow": "Launch day, staged",
+      "actions": [
+        "Enter in 3 tranches",
+        "Stake / LP the core position for yield",
+        "Farm official points programme if present"
+      ],
+      "exitRule": "Hold core; rebalance if position exceeds 8% of budget or fundamentals change",
+      "reviewCadence": "Weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-003",
+    "rank": 52,
+    "name": "RealmPlay",
+    "symbol": "REAL",
+    "chain": "Avalanche",
+    "category": "Gaming",
+    "narrative": "On-chain game / game studio token",
+    "launchTimeUtc": "2026-11-25T02:00:00.000Z",
+    "launchStatus": "live",
+    "hoursToLaunch": -22,
+    "initialMarketCapUsd": 61464990,
+    "liquidityUsd": 19313780,
+    "liquidityLockedPct": 40,
+    "circulatingSupplyPct": 61,
+    "vestingMonths": 3,
+    "auditStatus": "partial",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 1102,
+      "searchTrendIndex": 96,
+      "holderGrowthPct24h": 10.47,
+      "heatScore": 69
+    },
+    "riskScore": 48,
+    "riskLevel": "medium",
+    "opportunityScore": 66,
+    "estimatedValueUsd": 98343984,
+    "estimatedValue": {
+      "fairMarketCapUsd": 98343984,
+      "upsideMultiple": 1.6,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Staged over 24h",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-065",
+    "rank": 53,
+    "name": "NeuralLabs",
+    "symbol": "NEUR",
+    "chain": "Avalanche",
+    "category": "AI",
+    "narrative": "AI agents / inference network",
+    "launchTimeUtc": "2026-11-23T05:00:00.000Z",
+    "launchStatus": "ended",
+    "hoursToLaunch": -67,
+    "initialMarketCapUsd": 26181370,
+    "liquidityUsd": 11014046,
+    "liquidityLockedPct": 79,
+    "circulatingSupplyPct": 53,
+    "vestingMonths": 6,
+    "auditStatus": "partial",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 3904,
+      "searchTrendIndex": 28,
+      "holderGrowthPct24h": 142.68,
+      "heatScore": 60
+    },
+    "riskScore": 35,
+    "riskLevel": "medium",
+    "opportunityScore": 66,
+    "estimatedValueUsd": 32203085,
+    "estimatedValue": {
+      "fairMarketCapUsd": 32203085,
+      "upsideMultiple": 1.23,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Staged over 24h",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-082",
+    "rank": 54,
+    "name": "DataRoll",
+    "symbol": "DATA",
+    "chain": "Arbitrum",
+    "category": "Infra",
+    "narrative": "L2 / data / interoperability infra",
+    "launchTimeUtc": "2026-12-02T13:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 157,
+    "initialMarketCapUsd": 29995071,
+    "liquidityUsd": 6953137,
+    "liquidityLockedPct": 100,
+    "circulatingSupplyPct": 84,
+    "vestingMonths": 24,
+    "auditStatus": "none",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 20423,
+      "searchTrendIndex": 51,
+      "holderGrowthPct24h": 53.68,
+      "heatScore": 67
+    },
+    "riskScore": 36,
+    "riskLevel": "medium",
+    "opportunityScore": 66,
+    "estimatedValueUsd": 42293050,
+    "estimatedValue": {
+      "fairMarketCapUsd": 42293050,
+      "upsideMultiple": 1.41,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-004",
+    "rank": 55,
+    "name": "PepeMoon",
+    "symbol": "PEPE",
+    "chain": "Arbitrum",
+    "category": "Meme",
+    "narrative": "Community meme token",
+    "launchTimeUtc": "2026-11-29T18:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 90,
+    "initialMarketCapUsd": 73432053,
+    "liquidityUsd": 13028754,
+    "liquidityLockedPct": 8,
+    "circulatingSupplyPct": 86,
+    "vestingMonths": 0,
+    "auditStatus": "audited",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 39620,
+      "searchTrendIndex": 57,
+      "holderGrowthPct24h": 143.28,
+      "heatScore": 81
+    },
+    "riskScore": 70,
+    "riskLevel": "high",
+    "opportunityScore": 65,
+    "estimatedValueUsd": 71963412,
+    "estimatedValue": {
+      "fairMarketCapUsd": 71963412,
+      "upsideMultiple": 0.98,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Small snipe + fast ladder-out",
+      "suggestedAllocationPct": 1,
+      "entryWindow": "First 15 minutes, limit orders only",
+      "actions": [
+        "Cap position at 1% of farm budget",
+        "Pre-set staged sell orders",
+        "No leverage, no chasing green candles"
+      ],
+      "exitRule": "Sell 50% at 2x, remainder at 3x or on risk score rising above 80",
+      "reviewCadence": "Hourly for first 24h, then daily"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-010",
+    "rank": 56,
+    "name": "GridNetwork",
+    "symbol": "GRID",
+    "chain": "Solana",
+    "category": "DePIN",
+    "narrative": "Decentralised physical infrastructure",
+    "launchTimeUtc": "2026-12-03T07:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 175,
+    "initialMarketCapUsd": 46753343,
+    "liquidityUsd": 16938903,
+    "liquidityLockedPct": 70,
+    "circulatingSupplyPct": 23,
+    "vestingMonths": 12,
+    "auditStatus": "audited",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 3262,
+      "searchTrendIndex": 40,
+      "holderGrowthPct24h": 50.11,
+      "heatScore": 55
+    },
+    "riskScore": 30,
+    "riskLevel": "low",
+    "opportunityScore": 65,
+    "estimatedValueUsd": 56571545,
+    "estimatedValue": {
+      "fairMarketCapUsd": 56571545,
+      "upsideMultiple": 1.21,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Core farm — staged entry + LP / staking",
+      "suggestedAllocationPct": 5,
+      "entryWindow": "Launch day, staged",
+      "actions": [
+        "Enter in 3 tranches",
+        "Stake / LP the core position for yield",
+        "Farm official points programme if present"
+      ],
+      "exitRule": "Hold core; rebalance if position exceeds 8% of budget or fundamentals change",
+      "reviewCadence": "Weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-013",
+    "rank": 57,
+    "name": "VaultLend",
+    "symbol": "VAUL",
+    "chain": "Aptos",
+    "category": "DeFi",
+    "narrative": "DEX / lending / yield protocol",
+    "launchTimeUtc": "2026-12-04T22:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 214,
+    "initialMarketCapUsd": 17445997,
+    "liquidityUsd": 7304180,
+    "liquidityLockedPct": 4,
+    "circulatingSupplyPct": 69,
+    "vestingMonths": 3,
+    "auditStatus": "audited",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 565,
+      "searchTrendIndex": 92,
+      "holderGrowthPct24h": 45.24,
+      "heatScore": 72
+    },
+    "riskScore": 49,
+    "riskLevel": "medium",
+    "opportunityScore": 65,
+    "estimatedValueUsd": 21109656,
+    "estimatedValue": {
+      "fairMarketCapUsd": 21109656,
+      "upsideMultiple": 1.21,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-066",
+    "rank": 58,
+    "name": "MeshWorks",
+    "symbol": "MESH",
+    "chain": "Aptos",
+    "category": "DePIN",
+    "narrative": "Decentralised physical infrastructure",
+    "launchTimeUtc": "2026-12-05T02:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 218,
+    "initialMarketCapUsd": 21709555,
+    "liquidityUsd": 6250685,
+    "liquidityLockedPct": 47,
+    "circulatingSupplyPct": 58,
+    "vestingMonths": 3,
+    "auditStatus": "none",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 12954,
+      "searchTrendIndex": 78,
+      "holderGrowthPct24h": 93.05,
+      "heatScore": 85
+    },
+    "riskScore": 66,
+    "riskLevel": "high",
+    "opportunityScore": 65,
+    "estimatedValueUsd": 23446319,
+    "estimatedValue": {
+      "fairMarketCapUsd": 23446319,
+      "upsideMultiple": 1.08,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Small snipe + fast ladder-out",
+      "suggestedAllocationPct": 1,
+      "entryWindow": "First 15 minutes, limit orders only",
+      "actions": [
+        "Cap position at 1% of farm budget",
+        "Pre-set staged sell orders",
+        "No leverage, no chasing green candles"
+      ],
+      "exitRule": "Sell 50% at 2x, remainder at 3x or on risk score rising above 80",
+      "reviewCadence": "Hourly for first 24h, then daily"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-106",
+    "rank": 59,
+    "name": "BuzzWave",
+    "symbol": "BUZZ2",
+    "chain": "Arbitrum",
+    "category": "Social",
+    "narrative": "Social / creator platform token",
+    "launchTimeUtc": "2026-11-30T23:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 119,
+    "initialMarketCapUsd": 17224084,
+    "liquidityUsd": 1220528,
+    "liquidityLockedPct": 81,
+    "circulatingSupplyPct": 56,
+    "vestingMonths": 24,
+    "auditStatus": "none",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 30539,
+      "searchTrendIndex": 97,
+      "holderGrowthPct24h": 16.42,
+      "heatScore": 81
+    },
+    "riskScore": 45,
+    "riskLevel": "medium",
+    "opportunityScore": 65,
+    "estimatedValueUsd": 24802681,
+    "estimatedValue": {
+      "fairMarketCapUsd": 24802681,
+      "upsideMultiple": 1.44,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-032",
+    "rank": 60,
+    "name": "CortexNet",
+    "symbol": "CORT",
+    "chain": "BNB Chain",
+    "category": "AI",
+    "narrative": "AI agents / inference network",
+    "launchTimeUtc": "2026-11-27T00:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 24,
+    "initialMarketCapUsd": 70690740,
+    "liquidityUsd": 10168488,
+    "liquidityLockedPct": 70,
+    "circulatingSupplyPct": 49,
+    "vestingMonths": 0,
+    "auditStatus": "unknown",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 8222,
+      "searchTrendIndex": 28,
+      "holderGrowthPct24h": 109.51,
+      "heatScore": 63
+    },
+    "riskScore": 46,
+    "riskLevel": "medium",
+    "opportunityScore": 64,
+    "estimatedValueUsd": 100380851,
+    "estimatedValue": {
+      "fairMarketCapUsd": 100380851,
+      "upsideMultiple": 1.42,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-038",
+    "rank": 61,
+    "name": "ForgeArena",
+    "symbol": "FORG",
+    "chain": "Sui",
+    "category": "Gaming",
+    "narrative": "On-chain game / game studio token",
+    "launchTimeUtc": "2026-11-23T16:00:00.000Z",
+    "launchStatus": "ended",
+    "hoursToLaunch": -56,
+    "initialMarketCapUsd": 58716308,
+    "liquidityUsd": 4713737,
+    "liquidityLockedPct": 56,
+    "circulatingSupplyPct": 43,
+    "vestingMonths": 12,
+    "auditStatus": "partial",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 45538,
+      "searchTrendIndex": 19,
+      "holderGrowthPct24h": 154.46,
+      "heatScore": 64
+    },
+    "riskScore": 30,
+    "riskLevel": "low",
+    "opportunityScore": 64,
+    "estimatedValueUsd": 85725810,
+    "estimatedValue": {
+      "fairMarketCapUsd": 85725810,
+      "upsideMultiple": 1.46,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Core farm — staged entry + LP / staking",
+      "suggestedAllocationPct": 5,
+      "entryWindow": "Staged over 48h",
+      "actions": [
+        "Enter in 3 tranches",
+        "Stake / LP the core position for yield",
+        "Farm official points programme if present"
+      ],
+      "exitRule": "Hold core; rebalance if position exceeds 8% of budget or fundamentals change",
+      "reviewCadence": "Weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-062",
+    "rank": 62,
+    "name": "TradeChain",
+    "symbol": "TRAD",
+    "chain": "Base",
+    "category": "RWA",
+    "narrative": "Real-world asset tokenisation",
+    "launchTimeUtc": "2026-11-28T04:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 52,
+    "initialMarketCapUsd": 42782292,
+    "liquidityUsd": 9143659,
+    "liquidityLockedPct": 4,
+    "circulatingSupplyPct": 56,
+    "vestingMonths": 6,
+    "auditStatus": "unknown",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 5997,
+      "searchTrendIndex": 57,
+      "holderGrowthPct24h": 53.1,
+      "heatScore": 65
+    },
+    "riskScore": 45,
+    "riskLevel": "medium",
+    "opportunityScore": 64,
+    "estimatedValueUsd": 45777052,
+    "estimatedValue": {
+      "fairMarketCapUsd": 45777052,
+      "upsideMultiple": 1.07,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-070",
+    "rank": 63,
+    "name": "NeuralProtocol",
+    "symbol": "NEUR",
+    "chain": "Ethereum",
+    "category": "AI",
+    "narrative": "AI agents / inference network",
+    "launchTimeUtc": "2026-12-01T20:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 140,
+    "initialMarketCapUsd": 24788884,
+    "liquidityUsd": 1510361,
+    "liquidityLockedPct": 67,
+    "circulatingSupplyPct": 24,
+    "vestingMonths": 12,
+    "auditStatus": "audited",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 24102,
+      "searchTrendIndex": 30,
+      "holderGrowthPct24h": 110.78,
+      "heatScore": 67
+    },
+    "riskScore": 26,
+    "riskLevel": "low",
+    "opportunityScore": 64,
+    "estimatedValueUsd": 37183326,
+    "estimatedValue": {
+      "fairMarketCapUsd": 37183326,
+      "upsideMultiple": 1.5,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Core farm — staged entry + LP / staking",
+      "suggestedAllocationPct": 5,
+      "entryWindow": "Launch day, staged",
+      "actions": [
+        "Enter in 3 tranches",
+        "Stake / LP the core position for yield",
+        "Farm official points programme if present"
+      ],
+      "exitRule": "Hold core; rebalance if position exceeds 8% of budget or fundamentals change",
+      "reviewCadence": "Weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-095",
+    "rank": 64,
+    "name": "CreatorClub",
+    "symbol": "CREA",
+    "chain": "Solana",
+    "category": "Social",
+    "narrative": "Social / creator platform token",
+    "launchTimeUtc": "2026-12-03T10:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 178,
+    "initialMarketCapUsd": 38603392,
+    "liquidityUsd": 16523554,
+    "liquidityLockedPct": 68,
+    "circulatingSupplyPct": 33,
+    "vestingMonths": 12,
+    "auditStatus": "unknown",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 13387,
+      "searchTrendIndex": 84,
+      "holderGrowthPct24h": -6,
+      "heatScore": 70
+    },
+    "riskScore": 55,
+    "riskLevel": "high",
+    "opportunityScore": 64,
+    "estimatedValueUsd": 49798376,
+    "estimatedValue": {
+      "fairMarketCapUsd": 49798376,
+      "upsideMultiple": 1.29,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Small snipe + fast ladder-out",
+      "suggestedAllocationPct": 1,
+      "entryWindow": "First 15 minutes, limit orders only",
+      "actions": [
+        "Cap position at 1% of farm budget",
+        "Pre-set staged sell orders",
+        "No leverage, no chasing green candles"
+      ],
+      "exitRule": "Sell 50% at 2x, remainder at 3x or on risk score rising above 80",
+      "reviewCadence": "Hourly for first 24h, then daily"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-102",
+    "rank": 65,
+    "name": "NovaGG",
+    "symbol": "NOVA",
+    "chain": "Sui",
+    "category": "Gaming",
+    "narrative": "On-chain game / game studio token",
+    "launchTimeUtc": "2026-11-24T04:00:00.000Z",
+    "launchStatus": "ended",
+    "hoursToLaunch": -44,
+    "initialMarketCapUsd": 32439703,
+    "liquidityUsd": 2899004,
+    "liquidityLockedPct": 43,
+    "circulatingSupplyPct": 47,
+    "vestingMonths": 24,
+    "auditStatus": "none",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 24838,
+      "searchTrendIndex": 70,
+      "holderGrowthPct24h": 140.03,
+      "heatScore": 85
+    },
+    "riskScore": 58,
+    "riskLevel": "high",
+    "opportunityScore": 64,
+    "estimatedValueUsd": 42171614,
+    "estimatedValue": {
+      "fairMarketCapUsd": 42171614,
+      "upsideMultiple": 1.3,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Small snipe + fast ladder-out",
+      "suggestedAllocationPct": 1,
+      "entryWindow": "On a 20-30% pullback from launch high",
+      "actions": [
+        "Cap position at 1% of farm budget",
+        "Pre-set staged sell orders",
+        "No leverage, no chasing green candles"
+      ],
+      "exitRule": "Sell 50% at 2x, remainder at 3x or on risk score rising above 80",
+      "reviewCadence": "Hourly for first 24h, then daily"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-009",
+    "rank": 66,
+    "name": "NeuralAI",
+    "symbol": "NEUR",
+    "chain": "Arbitrum",
+    "category": "AI",
+    "narrative": "AI agents / inference network",
+    "launchTimeUtc": "2026-11-24T17:00:00.000Z",
+    "launchStatus": "ended",
+    "hoursToLaunch": -31,
+    "initialMarketCapUsd": 29334262,
+    "liquidityUsd": 2316054,
+    "liquidityLockedPct": 93,
+    "circulatingSupplyPct": 64,
+    "vestingMonths": 36,
+    "auditStatus": "audited",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 921,
+      "searchTrendIndex": 32,
+      "holderGrowthPct24h": 144.2,
+      "heatScore": 57
+    },
+    "riskScore": 17,
+    "riskLevel": "low",
+    "opportunityScore": 63,
+    "estimatedValueUsd": 52508329,
+    "estimatedValue": {
+      "fairMarketCapUsd": 52508329,
+      "upsideMultiple": 1.79,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Core farm — staged entry + LP / staking",
+      "suggestedAllocationPct": 5,
+      "entryWindow": "Staged over 48h",
+      "actions": [
+        "Enter in 3 tranches",
+        "Stake / LP the core position for yield",
+        "Farm official points programme if present"
+      ],
+      "exitRule": "Hold core; rebalance if position exceeds 8% of budget or fundamentals change",
+      "reviewCadence": "Weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-069",
+    "rank": 67,
+    "name": "WaveFans",
+    "symbol": "WAVE",
+    "chain": "Arbitrum",
+    "category": "Social",
+    "narrative": "Social / creator platform token",
+    "launchTimeUtc": "2026-11-26T07:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 7,
+    "initialMarketCapUsd": 77283495,
+    "liquidityUsd": 17373248,
+    "liquidityLockedPct": 24,
+    "circulatingSupplyPct": 89,
+    "vestingMonths": 6,
+    "auditStatus": "none",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 20628,
+      "searchTrendIndex": 57,
+      "holderGrowthPct24h": 50.37,
+      "heatScore": 69
+    },
+    "riskScore": 58,
+    "riskLevel": "high",
+    "opportunityScore": 63,
+    "estimatedValueUsd": 81920505,
+    "estimatedValue": {
+      "fairMarketCapUsd": 81920505,
+      "upsideMultiple": 1.06,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Small snipe + fast ladder-out",
+      "suggestedAllocationPct": 1,
+      "entryWindow": "First 15 minutes, limit orders only",
+      "actions": [
+        "Cap position at 1% of farm budget",
+        "Pre-set staged sell orders",
+        "No leverage, no chasing green candles"
+      ],
+      "exitRule": "Sell 50% at 2x, remainder at 3x or on risk score rising above 80",
+      "reviewCadence": "Hourly for first 24h, then daily"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-083",
+    "rank": 68,
+    "name": "EchoTribe",
+    "symbol": "ECHO",
+    "chain": "Avalanche",
+    "category": "Social",
+    "narrative": "Social / creator platform token",
+    "launchTimeUtc": "2026-12-05T10:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 226,
+    "initialMarketCapUsd": 3530183,
+    "liquidityUsd": 398025,
+    "liquidityLockedPct": 53,
+    "circulatingSupplyPct": 88,
+    "vestingMonths": 3,
+    "auditStatus": "partial",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 6519,
+      "searchTrendIndex": 48,
+      "holderGrowthPct24h": 122.64,
+      "heatScore": 71
+    },
+    "riskScore": 33,
+    "riskLevel": "low",
+    "opportunityScore": 63,
+    "estimatedValueUsd": 6530839,
+    "estimatedValue": {
+      "fairMarketCapUsd": 6530839,
+      "upsideMultiple": 1.85,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Core farm — staged entry + LP / staking",
+      "suggestedAllocationPct": 5,
+      "entryWindow": "Launch day, staged",
+      "actions": [
+        "Enter in 3 tranches",
+        "Stake / LP the core position for yield",
+        "Farm official points programme if present"
+      ],
+      "exitRule": "Hold core; rebalance if position exceeds 8% of budget or fundamentals change",
+      "reviewCadence": "Weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-107",
+    "rank": 69,
+    "name": "MindProtocol",
+    "symbol": "MIND",
+    "chain": "BNB Chain",
+    "category": "AI",
+    "narrative": "AI agents / inference network",
+    "launchTimeUtc": "2026-12-01T03:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 123,
+    "initialMarketCapUsd": 41703329,
+    "liquidityUsd": 16165742,
+    "liquidityLockedPct": 79,
+    "circulatingSupplyPct": 66,
+    "vestingMonths": 24,
+    "auditStatus": "audited",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 37329,
+      "searchTrendIndex": 10,
+      "holderGrowthPct24h": 121.32,
+      "heatScore": 60
+    },
+    "riskScore": 42,
+    "riskLevel": "medium",
+    "opportunityScore": 63,
+    "estimatedValueUsd": 42120362,
+    "estimatedValue": {
+      "fairMarketCapUsd": 42120362,
+      "upsideMultiple": 1.01,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-018",
+    "rank": 70,
+    "name": "GridLink",
+    "symbol": "GRID",
+    "chain": "Arbitrum",
+    "category": "DePIN",
+    "narrative": "Decentralised physical infrastructure",
+    "launchTimeUtc": "2026-12-02T17:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 161,
+    "initialMarketCapUsd": 81515407,
+    "liquidityUsd": 13802538,
+    "liquidityLockedPct": 18,
+    "circulatingSupplyPct": 48,
+    "vestingMonths": 3,
+    "auditStatus": "none",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 36477,
+      "searchTrendIndex": 69,
+      "holderGrowthPct24h": 56.13,
+      "heatScore": 77
+    },
+    "riskScore": 72,
+    "riskLevel": "high",
+    "opportunityScore": 62,
+    "estimatedValueUsd": 115751878,
+    "estimatedValue": {
+      "fairMarketCapUsd": 115751878,
+      "upsideMultiple": 1.42,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Small snipe + fast ladder-out",
+      "suggestedAllocationPct": 1,
+      "entryWindow": "First 15 minutes, limit orders only",
+      "actions": [
+        "Cap position at 1% of farm budget",
+        "Pre-set staged sell orders",
+        "No leverage, no chasing green candles"
+      ],
+      "exitRule": "Sell 50% at 2x, remainder at 3x or on risk score rising above 80",
+      "reviewCadence": "Hourly for first 24h, then daily"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-022",
+    "rank": 71,
+    "name": "HyperLayer",
+    "symbol": "HYPE2",
+    "chain": "Avalanche",
+    "category": "Infra",
+    "narrative": "L2 / data / interoperability infra",
+    "launchTimeUtc": "2026-11-27T07:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 31,
+    "initialMarketCapUsd": 45565930,
+    "liquidityUsd": 6235443,
+    "liquidityLockedPct": 57,
+    "circulatingSupplyPct": 16,
+    "vestingMonths": 6,
+    "auditStatus": "none",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 13006,
+      "searchTrendIndex": 56,
+      "holderGrowthPct24h": 123.3,
+      "heatScore": 77
+    },
+    "riskScore": 63,
+    "riskLevel": "high",
+    "opportunityScore": 62,
+    "estimatedValueUsd": 46021589,
+    "estimatedValue": {
+      "fairMarketCapUsd": 46021589,
+      "upsideMultiple": 1.01,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Small snipe + fast ladder-out",
+      "suggestedAllocationPct": 1,
+      "entryWindow": "First 15 minutes, limit orders only",
+      "actions": [
+        "Cap position at 1% of farm budget",
+        "Pre-set staged sell orders",
+        "No leverage, no chasing green candles"
+      ],
+      "exitRule": "Sell 50% at 2x, remainder at 3x or on risk score rising above 80",
+      "reviewCadence": "Hourly for first 24h, then daily"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-031",
+    "rank": 72,
+    "name": "BuzzClub",
+    "symbol": "BUZZ",
+    "chain": "BNB Chain",
+    "category": "Social",
+    "narrative": "Social / creator platform token",
+    "launchTimeUtc": "2026-12-05T17:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 233,
+    "initialMarketCapUsd": 77283520,
+    "liquidityUsd": 19482448,
+    "liquidityLockedPct": 75,
+    "circulatingSupplyPct": 80,
+    "vestingMonths": 18,
+    "auditStatus": "partial",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 9191,
+      "searchTrendIndex": 19,
+      "holderGrowthPct24h": 143.94,
+      "heatScore": 59
+    },
+    "riskScore": 44,
+    "riskLevel": "medium",
+    "opportunityScore": 62,
+    "estimatedValueUsd": 105878422,
+    "estimatedValue": {
+      "fairMarketCapUsd": 105878422,
+      "upsideMultiple": 1.37,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-040",
+    "rank": 73,
+    "name": "YieldMarkets",
+    "symbol": "YIEL",
+    "chain": "Sui",
+    "category": "DeFi",
+    "narrative": "DEX / lending / yield protocol",
+    "launchTimeUtc": "2026-11-28T23:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 71,
+    "initialMarketCapUsd": 68406462,
+    "liquidityUsd": 18536594,
+    "liquidityLockedPct": 6,
+    "circulatingSupplyPct": 28,
+    "vestingMonths": 6,
+    "auditStatus": "none",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 9345,
+      "searchTrendIndex": 31,
+      "holderGrowthPct24h": 150.36,
+      "heatScore": 65
+    },
+    "riskScore": 54,
+    "riskLevel": "medium",
+    "opportunityScore": 62,
+    "estimatedValueUsd": 80035561,
+    "estimatedValue": {
+      "fairMarketCapUsd": 80035561,
+      "upsideMultiple": 1.17,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-045",
+    "rank": 74,
+    "name": "VoltLink",
+    "symbol": "VOLT",
+    "chain": "Arbitrum",
+    "category": "DePIN",
+    "narrative": "Decentralised physical infrastructure",
+    "launchTimeUtc": "2026-11-28T16:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 64,
+    "initialMarketCapUsd": 76087599,
+    "liquidityUsd": 30145289,
+    "liquidityLockedPct": 87,
+    "circulatingSupplyPct": 65,
+    "vestingMonths": 3,
+    "auditStatus": "audited",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 24085,
+      "searchTrendIndex": 16,
+      "holderGrowthPct24h": 52.76,
+      "heatScore": 51
+    },
+    "riskScore": 33,
+    "riskLevel": "low",
+    "opportunityScore": 62,
+    "estimatedValueUsd": 105761763,
+    "estimatedValue": {
+      "fairMarketCapUsd": 105761763,
+      "upsideMultiple": 1.39,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Core farm — staged entry + LP / staking",
+      "suggestedAllocationPct": 5,
+      "entryWindow": "Launch day, staged",
+      "actions": [
+        "Enter in 3 tranches",
+        "Stake / LP the core position for yield",
+        "Farm official points programme if present"
+      ],
+      "exitRule": "Hold core; rebalance if position exceeds 8% of budget or fundamentals change",
+      "reviewCadence": "Weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-085",
+    "rank": 75,
+    "name": "AeroLink",
+    "symbol": "AERO2",
+    "chain": "Ethereum",
+    "category": "DePIN",
+    "narrative": "Decentralised physical infrastructure",
+    "launchTimeUtc": "2026-11-26T12:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 12,
+    "initialMarketCapUsd": 28254292,
+    "liquidityUsd": 9293386,
+    "liquidityLockedPct": 47,
+    "circulatingSupplyPct": 65,
+    "vestingMonths": 12,
+    "auditStatus": "audited",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 16291,
+      "searchTrendIndex": 55,
+      "holderGrowthPct24h": 43.38,
+      "heatScore": 66
+    },
+    "riskScore": 52,
+    "riskLevel": "medium",
+    "opportunityScore": 62,
+    "estimatedValueUsd": 33905150,
+    "estimatedValue": {
+      "fairMarketCapUsd": 33905150,
+      "upsideMultiple": 1.2,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-091",
+    "rank": 76,
+    "name": "EchoWave",
+    "symbol": "ECHO",
+    "chain": "BNB Chain",
+    "category": "Social",
+    "narrative": "Social / creator platform token",
+    "launchTimeUtc": "2026-11-30T09:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 105,
+    "initialMarketCapUsd": 79745238,
+    "liquidityUsd": 22204229,
+    "liquidityLockedPct": 87,
+    "circulatingSupplyPct": 52,
+    "vestingMonths": 36,
+    "auditStatus": "partial",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 400,
+      "searchTrendIndex": 30,
+      "holderGrowthPct24h": 91.49,
+      "heatScore": 52
+    },
+    "riskScore": 34,
+    "riskLevel": "low",
+    "opportunityScore": 62,
+    "estimatedValueUsd": 92504476,
+    "estimatedValue": {
+      "fairMarketCapUsd": 92504476,
+      "upsideMultiple": 1.16,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Core farm — staged entry + LP / staking",
+      "suggestedAllocationPct": 5,
+      "entryWindow": "Launch day, staged",
+      "actions": [
+        "Enter in 3 tranches",
+        "Stake / LP the core position for yield",
+        "Farm official points programme if present"
+      ],
+      "exitRule": "Hold core; rebalance if position exceeds 8% of budget or fundamentals change",
+      "reviewCadence": "Weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-099",
+    "rank": 77,
+    "name": "CreatorSocial",
+    "symbol": "CREA2",
+    "chain": "Solana",
+    "category": "Social",
+    "narrative": "Social / creator platform token",
+    "launchTimeUtc": "2026-12-01T22:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 142,
+    "initialMarketCapUsd": 83715685,
+    "liquidityUsd": 24790218,
+    "liquidityLockedPct": 29,
+    "circulatingSupplyPct": 43,
+    "vestingMonths": 24,
+    "auditStatus": "none",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 26401,
+      "searchTrendIndex": 56,
+      "holderGrowthPct24h": 42.36,
+      "heatScore": 68
+    },
+    "riskScore": 61,
+    "riskLevel": "high",
+    "opportunityScore": 61,
+    "estimatedValueUsd": 88738626,
+    "estimatedValue": {
+      "fairMarketCapUsd": 88738626,
+      "upsideMultiple": 1.06,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Small snipe + fast ladder-out",
+      "suggestedAllocationPct": 1,
+      "entryWindow": "First 15 minutes, limit orders only",
+      "actions": [
+        "Cap position at 1% of farm budget",
+        "Pre-set staged sell orders",
+        "No leverage, no chasing green candles"
+      ],
+      "exitRule": "Sell 50% at 2x, remainder at 3x or on risk score rising above 80",
+      "reviewCadence": "Hourly for first 24h, then daily"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-001",
+    "rank": 78,
+    "name": "TensorLabs",
+    "symbol": "TENS2",
+    "chain": "Ethereum",
+    "category": "AI",
+    "narrative": "AI agents / inference network",
+    "launchTimeUtc": "2026-11-30T21:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 117,
+    "initialMarketCapUsd": 54387402,
+    "liquidityUsd": 21271362,
+    "liquidityLockedPct": 56,
+    "circulatingSupplyPct": 13,
+    "vestingMonths": 6,
+    "auditStatus": "partial",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 40396,
+      "searchTrendIndex": 26,
+      "holderGrowthPct24h": 105.31,
+      "heatScore": 67
+    },
+    "riskScore": 63,
+    "riskLevel": "high",
+    "opportunityScore": 60,
+    "estimatedValueUsd": 71247497,
+    "estimatedValue": {
+      "fairMarketCapUsd": 71247497,
+      "upsideMultiple": 1.31,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Small snipe + fast ladder-out",
+      "suggestedAllocationPct": 1,
+      "entryWindow": "First 15 minutes, limit orders only",
+      "actions": [
+        "Cap position at 1% of farm budget",
+        "Pre-set staged sell orders",
+        "No leverage, no chasing green candles"
+      ],
+      "exitRule": "Sell 50% at 2x, remainder at 3x or on risk score rising above 80",
+      "reviewCadence": "Hourly for first 24h, then daily"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-059",
+    "rank": 79,
+    "name": "MindMind",
+    "symbol": "MIND",
+    "chain": "Base",
+    "category": "AI",
+    "narrative": "AI agents / inference network",
+    "launchTimeUtc": "2026-12-02T05:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 149,
+    "initialMarketCapUsd": 46180474,
+    "liquidityUsd": 13540580,
+    "liquidityLockedPct": 21,
+    "circulatingSupplyPct": 45,
+    "vestingMonths": 36,
+    "auditStatus": "none",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 11819,
+      "searchTrendIndex": 65,
+      "holderGrowthPct24h": 11.86,
+      "heatScore": 63
+    },
+    "riskScore": 55,
+    "riskLevel": "high",
+    "opportunityScore": 60,
+    "estimatedValueUsd": 45256865,
+    "estimatedValue": {
+      "fairMarketCapUsd": 45256865,
+      "upsideMultiple": 0.98,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Small snipe + fast ladder-out",
+      "suggestedAllocationPct": 1,
+      "entryWindow": "First 15 minutes, limit orders only",
+      "actions": [
+        "Cap position at 1% of farm budget",
+        "Pre-set staged sell orders",
+        "No leverage, no chasing green candles"
+      ],
+      "exitRule": "Sell 50% at 2x, remainder at 3x or on risk score rising above 80",
+      "reviewCadence": "Hourly for first 24h, then daily"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-023",
+    "rank": 80,
+    "name": "EchoFans",
+    "symbol": "ECHO",
+    "chain": "Ethereum",
+    "category": "Social",
+    "narrative": "Social / creator platform token",
+    "launchTimeUtc": "2026-11-25T11:00:00.000Z",
+    "launchStatus": "live",
+    "hoursToLaunch": -13,
+    "initialMarketCapUsd": 31548890,
+    "liquidityUsd": 4073186,
+    "liquidityLockedPct": 68,
+    "circulatingSupplyPct": 79,
+    "vestingMonths": 0,
+    "auditStatus": "audited",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 29578,
+      "searchTrendIndex": 20,
+      "holderGrowthPct24h": 121.92,
+      "heatScore": 63
+    },
+    "riskScore": 42,
+    "riskLevel": "medium",
+    "opportunityScore": 59,
+    "estimatedValueUsd": 45745891,
+    "estimatedValue": {
+      "fairMarketCapUsd": 45745891,
+      "upsideMultiple": 1.45,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Staged over 24h",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-058",
+    "rank": 81,
+    "name": "WaveWave",
+    "symbol": "WAVE",
+    "chain": "Sui",
+    "category": "Social",
+    "narrative": "Social / creator platform token",
+    "launchTimeUtc": "2026-12-03T05:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 173,
+    "initialMarketCapUsd": 17849502,
+    "liquidityUsd": 3616027,
+    "liquidityLockedPct": 67,
+    "circulatingSupplyPct": 39,
+    "vestingMonths": 18,
+    "auditStatus": "unknown",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 34375,
+      "searchTrendIndex": 36,
+      "holderGrowthPct24h": 86.81,
+      "heatScore": 68
+    },
+    "riskScore": 51,
+    "riskLevel": "medium",
+    "opportunityScore": 58,
+    "estimatedValueUsd": 29987163,
+    "estimatedValue": {
+      "fairMarketCapUsd": 29987163,
+      "upsideMultiple": 1.68,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-097",
+    "rank": 82,
+    "name": "TradeTrust",
+    "symbol": "TRAD",
+    "chain": "Solana",
+    "category": "RWA",
+    "narrative": "Real-world asset tokenisation",
+    "launchTimeUtc": "2026-12-02T05:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 149,
+    "initialMarketCapUsd": 80122543,
+    "liquidityUsd": 35208454,
+    "liquidityLockedPct": 27,
+    "circulatingSupplyPct": 17,
+    "vestingMonths": 18,
+    "auditStatus": "audited",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 18950,
+      "searchTrendIndex": 9,
+      "holderGrowthPct24h": 132.89,
+      "heatScore": 57
+    },
+    "riskScore": 53,
+    "riskLevel": "medium",
+    "opportunityScore": 58,
+    "estimatedValueUsd": 103358080,
+    "estimatedValue": {
+      "fairMarketCapUsd": 103358080,
+      "upsideMultiple": 1.29,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-006",
+    "rank": 83,
+    "name": "EstateChain",
+    "symbol": "ESTA",
+    "chain": "Solana",
+    "category": "RWA",
+    "narrative": "Real-world asset tokenisation",
+    "launchTimeUtc": "2026-12-05T05:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 221,
+    "initialMarketCapUsd": 15542657,
+    "liquidityUsd": 708285,
+    "liquidityLockedPct": 32,
+    "circulatingSupplyPct": 12,
+    "vestingMonths": 18,
+    "auditStatus": "audited",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 35057,
+      "searchTrendIndex": 39,
+      "holderGrowthPct24h": 139.87,
+      "heatScore": 73
+    },
+    "riskScore": 55,
+    "riskLevel": "high",
+    "opportunityScore": 57,
+    "estimatedValueUsd": 20982587,
+    "estimatedValue": {
+      "fairMarketCapUsd": 20982587,
+      "upsideMultiple": 1.35,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Small snipe + fast ladder-out",
+      "suggestedAllocationPct": 1,
+      "entryWindow": "First 15 minutes, limit orders only",
+      "actions": [
+        "Cap position at 1% of farm budget",
+        "Pre-set staged sell orders",
+        "No leverage, no chasing green candles"
+      ],
+      "exitRule": "Sell 50% at 2x, remainder at 3x or on risk score rising above 80",
+      "reviewCadence": "Hourly for first 24h, then daily"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-025",
+    "rank": 84,
+    "name": "MeshGrid",
+    "symbol": "MESH",
+    "chain": "BNB Chain",
+    "category": "DePIN",
+    "narrative": "Decentralised physical infrastructure",
+    "launchTimeUtc": "2026-12-01T08:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 128,
+    "initialMarketCapUsd": 58436483,
+    "liquidityUsd": 5384246,
+    "liquidityLockedPct": 73,
+    "circulatingSupplyPct": 17,
+    "vestingMonths": 0,
+    "auditStatus": "none",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 33216,
+      "searchTrendIndex": 68,
+      "holderGrowthPct24h": 152.58,
+      "heatScore": 85
+    },
+    "riskScore": 85,
+    "riskLevel": "extreme",
+    "opportunityScore": 57,
+    "estimatedValueUsd": 78304887,
+    "estimatedValue": {
+      "fairMarketCapUsd": 78304887,
+      "upsideMultiple": 1.34,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Monitor only — do not allocate",
+      "suggestedAllocationPct": 0,
+      "entryWindow": "No entry planned; revisit only if audit + lock improve",
+      "actions": [
+        "Add to watchlist",
+        "Verify audit and liquidity lock manually",
+        "Set alert for post-launch holder growth"
+      ],
+      "exitRule": "N/A — no position",
+      "reviewCadence": "Weekly re-check of risk inputs"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-037",
+    "rank": 85,
+    "name": "BeaconNetwork",
+    "symbol": "BEAC",
+    "chain": "BNB Chain",
+    "category": "DePIN",
+    "narrative": "Decentralised physical infrastructure",
+    "launchTimeUtc": "2026-11-25T15:00:00.000Z",
+    "launchStatus": "live",
+    "hoursToLaunch": -9,
+    "initialMarketCapUsd": 1323842,
+    "liquidityUsd": 138822,
+    "liquidityLockedPct": 42,
+    "circulatingSupplyPct": 32,
+    "vestingMonths": 3,
+    "auditStatus": "partial",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 8353,
+      "searchTrendIndex": 61,
+      "holderGrowthPct24h": 65.78,
+      "heatScore": 71
+    },
+    "riskScore": 50,
+    "riskLevel": "medium",
+    "opportunityScore": 57,
+    "estimatedValueUsd": 2197578,
+    "estimatedValue": {
+      "fairMarketCapUsd": 2197578,
+      "upsideMultiple": 1.66,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Staged over 24h",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-090",
+    "rank": 86,
+    "name": "ZeroStack",
+    "symbol": "ZERO",
+    "chain": "Base",
+    "category": "Infra",
+    "narrative": "L2 / data / interoperability infra",
+    "launchTimeUtc": "2026-12-05T09:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 225,
+    "initialMarketCapUsd": 30730438,
+    "liquidityUsd": 7768216,
+    "liquidityLockedPct": 46,
+    "circulatingSupplyPct": 39,
+    "vestingMonths": 12,
+    "auditStatus": "none",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 12900,
+      "searchTrendIndex": 51,
+      "holderGrowthPct24h": 26.63,
+      "heatScore": 60
+    },
+    "riskScore": 55,
+    "riskLevel": "high",
+    "opportunityScore": 57,
+    "estimatedValueUsd": 45173744,
+    "estimatedValue": {
+      "fairMarketCapUsd": 45173744,
+      "upsideMultiple": 1.47,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Small snipe + fast ladder-out",
+      "suggestedAllocationPct": 1,
+      "entryWindow": "First 15 minutes, limit orders only",
+      "actions": [
+        "Cap position at 1% of farm budget",
+        "Pre-set staged sell orders",
+        "No leverage, no chasing green candles"
+      ],
+      "exitRule": "Sell 50% at 2x, remainder at 3x or on risk score rising above 80",
+      "reviewCadence": "Hourly for first 24h, then daily"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-103",
+    "rank": 87,
+    "name": "BonkFrog",
+    "symbol": "BONK",
+    "chain": "Aptos",
+    "category": "Meme",
+    "narrative": "Community meme token",
+    "launchTimeUtc": "2026-11-27T15:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 39,
+    "initialMarketCapUsd": 49433761,
+    "liquidityUsd": 12301453,
+    "liquidityLockedPct": 31,
+    "circulatingSupplyPct": 73,
+    "vestingMonths": 36,
+    "auditStatus": "partial",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 38793,
+      "searchTrendIndex": 26,
+      "holderGrowthPct24h": 70.66,
+      "heatScore": 61
+    },
+    "riskScore": 63,
+    "riskLevel": "high",
+    "opportunityScore": 57,
+    "estimatedValueUsd": 46962073,
+    "estimatedValue": {
+      "fairMarketCapUsd": 46962073,
+      "upsideMultiple": 0.95,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Small snipe + fast ladder-out",
+      "suggestedAllocationPct": 1,
+      "entryWindow": "First 15 minutes, limit orders only",
+      "actions": [
+        "Cap position at 1% of farm budget",
+        "Pre-set staged sell orders",
+        "No leverage, no chasing green candles"
+      ],
+      "exitRule": "Sell 50% at 2x, remainder at 3x or on risk score rising above 80",
+      "reviewCadence": "Hourly for first 24h, then daily"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-118",
+    "rank": 88,
+    "name": "DogeMoon",
+    "symbol": "DOGE",
+    "chain": "Arbitrum",
+    "category": "Meme",
+    "narrative": "Community meme token",
+    "launchTimeUtc": "2026-12-02T09:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 153,
+    "initialMarketCapUsd": 44014086,
+    "liquidityUsd": 2513258,
+    "liquidityLockedPct": 48,
+    "circulatingSupplyPct": 33,
+    "vestingMonths": 0,
+    "auditStatus": "none",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 7695,
+      "searchTrendIndex": 64,
+      "holderGrowthPct24h": 113.01,
+      "heatScore": 79
+    },
+    "riskScore": 68,
+    "riskLevel": "high",
+    "opportunityScore": 57,
+    "estimatedValueUsd": 65140847,
+    "estimatedValue": {
+      "fairMarketCapUsd": 65140847,
+      "upsideMultiple": 1.48,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Small snipe + fast ladder-out",
+      "suggestedAllocationPct": 1,
+      "entryWindow": "First 15 minutes, limit orders only",
+      "actions": [
+        "Cap position at 1% of farm budget",
+        "Pre-set staged sell orders",
+        "No leverage, no chasing green candles"
+      ],
+      "exitRule": "Sell 50% at 2x, remainder at 3x or on risk score rising above 80",
+      "reviewCadence": "Hourly for first 24h, then daily"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-017",
+    "rank": 89,
+    "name": "OracleAI",
+    "symbol": "ORAC",
+    "chain": "Arbitrum",
+    "category": "AI",
+    "narrative": "AI agents / inference network",
+    "launchTimeUtc": "2026-12-02T09:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 153,
+    "initialMarketCapUsd": 6229330,
+    "liquidityUsd": 2471367,
+    "liquidityLockedPct": 10,
+    "circulatingSupplyPct": 15,
+    "vestingMonths": 3,
+    "auditStatus": "unknown",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 1928,
+      "searchTrendIndex": 77,
+      "holderGrowthPct24h": 143.71,
+      "heatScore": 80
+    },
+    "riskScore": 73,
+    "riskLevel": "high",
+    "opportunityScore": 56,
+    "estimatedValueUsd": 8658769,
+    "estimatedValue": {
+      "fairMarketCapUsd": 8658769,
+      "upsideMultiple": 1.39,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Small snipe + fast ladder-out",
+      "suggestedAllocationPct": 1,
+      "entryWindow": "First 15 minutes, limit orders only",
+      "actions": [
+        "Cap position at 1% of farm budget",
+        "Pre-set staged sell orders",
+        "No leverage, no chasing green candles"
+      ],
+      "exitRule": "Sell 50% at 2x, remainder at 3x or on risk score rising above 80",
+      "reviewCadence": "Hourly for first 24h, then daily"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-035",
+    "rank": 90,
+    "name": "CreatorFans",
+    "symbol": "CREA",
+    "chain": "Base",
+    "category": "Social",
+    "narrative": "Social / creator platform token",
+    "launchTimeUtc": "2026-11-23T10:00:00.000Z",
+    "launchStatus": "ended",
+    "hoursToLaunch": -62,
+    "initialMarketCapUsd": 443515,
+    "liquidityUsd": 123882,
+    "liquidityLockedPct": 12,
+    "circulatingSupplyPct": 78,
+    "vestingMonths": 36,
+    "auditStatus": "audited",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 12678,
+      "searchTrendIndex": 59,
+      "holderGrowthPct24h": 68.05,
+      "heatScore": 72
+    },
+    "riskScore": 53,
+    "riskLevel": "medium",
+    "opportunityScore": 56,
+    "estimatedValueUsd": 758411,
+    "estimatedValue": {
+      "fairMarketCapUsd": 758411,
+      "upsideMultiple": 1.71,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Staged over 24h",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-048",
+    "rank": 91,
+    "name": "DeltaLend",
+    "symbol": "DELT",
+    "chain": "Arbitrum",
+    "category": "DeFi",
+    "narrative": "DEX / lending / yield protocol",
+    "launchTimeUtc": "2026-11-27T12:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 36,
+    "initialMarketCapUsd": 70120123,
+    "liquidityUsd": 28601947,
+    "liquidityLockedPct": 36,
+    "circulatingSupplyPct": 51,
+    "vestingMonths": 0,
+    "auditStatus": "none",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 43781,
+      "searchTrendIndex": 60,
+      "holderGrowthPct24h": 48.76,
+      "heatScore": 72
+    },
+    "riskScore": 81,
+    "riskLevel": "extreme",
+    "opportunityScore": 56,
+    "estimatedValueUsd": 84845349,
+    "estimatedValue": {
+      "fairMarketCapUsd": 84845349,
+      "upsideMultiple": 1.21,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Monitor only — do not allocate",
+      "suggestedAllocationPct": 0,
+      "entryWindow": "No entry planned; revisit only if audit + lock improve",
+      "actions": [
+        "Add to watchlist",
+        "Verify audit and liquidity lock manually",
+        "Set alert for post-launch holder growth"
+      ],
+      "exitRule": "N/A — no position",
+      "reviewCadence": "Weekly re-check of risk inputs"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-115",
+    "rank": 92,
+    "name": "EchoSocial",
+    "symbol": "ECHO",
+    "chain": "Aptos",
+    "category": "Social",
+    "narrative": "Social / creator platform token",
+    "launchTimeUtc": "2026-11-23T07:00:00.000Z",
+    "launchStatus": "ended",
+    "hoursToLaunch": -65,
+    "initialMarketCapUsd": 25171571,
+    "liquidityUsd": 6788291,
+    "liquidityLockedPct": 38,
+    "circulatingSupplyPct": 36,
+    "vestingMonths": 0,
+    "auditStatus": "unknown",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 43546,
+      "searchTrendIndex": 25,
+      "holderGrowthPct24h": 96.77,
+      "heatScore": 66
+    },
+    "riskScore": 62,
+    "riskLevel": "high",
+    "opportunityScore": 56,
+    "estimatedValueUsd": 29450738,
+    "estimatedValue": {
+      "fairMarketCapUsd": 29450738,
+      "upsideMultiple": 1.17,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Small snipe + fast ladder-out",
+      "suggestedAllocationPct": 1,
+      "entryWindow": "On a 20-30% pullback from launch high",
+      "actions": [
+        "Cap position at 1% of farm budget",
+        "Pre-set staged sell orders",
+        "No leverage, no chasing green candles"
+      ],
+      "exitRule": "Sell 50% at 2x, remainder at 3x or on risk score rising above 80",
+      "reviewCadence": "Hourly for first 24h, then daily"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-024",
+    "rank": 93,
+    "name": "AgentAI",
+    "symbol": "AGEN",
+    "chain": "Solana",
+    "category": "AI",
+    "narrative": "AI agents / inference network",
+    "launchTimeUtc": "2026-12-04T20:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 212,
+    "initialMarketCapUsd": 13407474,
+    "liquidityUsd": 1630053,
+    "liquidityLockedPct": 98,
+    "circulatingSupplyPct": 21,
+    "vestingMonths": 6,
+    "auditStatus": "none",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 17914,
+      "searchTrendIndex": 30,
+      "holderGrowthPct24h": 80.01,
+      "heatScore": 62
+    },
+    "riskScore": 44,
+    "riskLevel": "medium",
+    "opportunityScore": 55,
+    "estimatedValueUsd": 21720108,
+    "estimatedValue": {
+      "fairMarketCapUsd": 21720108,
+      "upsideMultiple": 1.62,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-027",
+    "rank": 94,
+    "name": "SillyCat",
+    "symbol": "SILL",
+    "chain": "Solana",
+    "category": "Meme",
+    "narrative": "Community meme token",
+    "launchTimeUtc": "2026-11-29T18:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 90,
+    "initialMarketCapUsd": 36806447,
+    "liquidityUsd": 13526026,
+    "liquidityLockedPct": 50,
+    "circulatingSupplyPct": 17,
+    "vestingMonths": 24,
+    "auditStatus": "unknown",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 8878,
+      "searchTrendIndex": 52,
+      "holderGrowthPct24h": 54.05,
+      "heatScore": 65
+    },
+    "riskScore": 74,
+    "riskLevel": "high",
+    "opportunityScore": 55,
+    "estimatedValueUsd": 29077093,
+    "estimatedValue": {
+      "fairMarketCapUsd": 29077093,
+      "upsideMultiple": 0.79,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Small snipe + fast ladder-out",
+      "suggestedAllocationPct": 1,
+      "entryWindow": "First 15 minutes, limit orders only",
+      "actions": [
+        "Cap position at 1% of farm budget",
+        "Pre-set staged sell orders",
+        "No leverage, no chasing green candles"
+      ],
+      "exitRule": "Sell 50% at 2x, remainder at 3x or on risk score rising above 80",
+      "reviewCadence": "Hourly for first 24h, then daily"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-046",
+    "rank": 95,
+    "name": "NovaPlay",
+    "symbol": "NOVA",
+    "chain": "Base",
+    "category": "Gaming",
+    "narrative": "On-chain game / game studio token",
+    "launchTimeUtc": "2026-11-28T08:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 56,
+    "initialMarketCapUsd": 56581657,
+    "liquidityUsd": 3453993,
+    "liquidityLockedPct": 97,
+    "circulatingSupplyPct": 46,
+    "vestingMonths": 36,
+    "auditStatus": "none",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 36859,
+      "searchTrendIndex": 63,
+      "holderGrowthPct24h": 0.27,
+      "heatScore": 63
+    },
+    "riskScore": 53,
+    "riskLevel": "medium",
+    "opportunityScore": 55,
+    "estimatedValueUsd": 66766355,
+    "estimatedValue": {
+      "fairMarketCapUsd": 66766355,
+      "upsideMultiple": 1.18,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-053",
+    "rank": 96,
+    "name": "BeaconGrid",
+    "symbol": "BEAC",
+    "chain": "Arbitrum",
+    "category": "DePIN",
+    "narrative": "Decentralised physical infrastructure",
+    "launchTimeUtc": "2026-11-30T03:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 99,
+    "initialMarketCapUsd": 39165336,
+    "liquidityUsd": 5293477,
+    "liquidityLockedPct": 87,
+    "circulatingSupplyPct": 54,
+    "vestingMonths": 6,
+    "auditStatus": "none",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 33669,
+      "searchTrendIndex": 7,
+      "holderGrowthPct24h": 53.72,
+      "heatScore": 49
+    },
+    "riskScore": 35,
+    "riskLevel": "medium",
+    "opportunityScore": 55,
+    "estimatedValueUsd": 47781710,
+    "estimatedValue": {
+      "fairMarketCapUsd": 47781710,
+      "upsideMultiple": 1.22,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-073",
+    "rank": 97,
+    "name": "ChadWif",
+    "symbol": "CHAD",
+    "chain": "Sui",
+    "category": "Meme",
+    "narrative": "Community meme token",
+    "launchTimeUtc": "2026-11-30T01:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 97,
+    "initialMarketCapUsd": 31728100,
+    "liquidityUsd": 4773341,
+    "liquidityLockedPct": 90,
+    "circulatingSupplyPct": 39,
+    "vestingMonths": 6,
+    "auditStatus": "none",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 40216,
+      "searchTrendIndex": 7,
+      "holderGrowthPct24h": 143.06,
+      "heatScore": 58
+    },
+    "riskScore": 47,
+    "riskLevel": "medium",
+    "opportunityScore": 55,
+    "estimatedValueUsd": 38708282,
+    "estimatedValue": {
+      "fairMarketCapUsd": 38708282,
+      "upsideMultiple": 1.22,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-075",
+    "rank": 98,
+    "name": "BrickChain",
+    "symbol": "BRIC",
+    "chain": "Aptos",
+    "category": "RWA",
+    "narrative": "Real-world asset tokenisation",
+    "launchTimeUtc": "2026-11-29T04:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 76,
+    "initialMarketCapUsd": 14880760,
+    "liquidityUsd": 2417382,
+    "liquidityLockedPct": 74,
+    "circulatingSupplyPct": 41,
+    "vestingMonths": 0,
+    "auditStatus": "none",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 29024,
+      "searchTrendIndex": 68,
+      "holderGrowthPct24h": 28.02,
+      "heatScore": 71
+    },
+    "riskScore": 60,
+    "riskLevel": "high",
+    "opportunityScore": 55,
+    "estimatedValueUsd": 19344988,
+    "estimatedValue": {
+      "fairMarketCapUsd": 19344988,
+      "upsideMultiple": 1.3,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Small snipe + fast ladder-out",
+      "suggestedAllocationPct": 1,
+      "entryWindow": "First 15 minutes, limit orders only",
+      "actions": [
+        "Cap position at 1% of farm budget",
+        "Pre-set staged sell orders",
+        "No leverage, no chasing green candles"
+      ],
+      "exitRule": "Sell 50% at 2x, remainder at 3x or on risk score rising above 80",
+      "reviewCadence": "Hourly for first 24h, then daily"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-077",
+    "rank": 99,
+    "name": "VoltNetwork",
+    "symbol": "VOLT",
+    "chain": "Avalanche",
+    "category": "DePIN",
+    "narrative": "Decentralised physical infrastructure",
+    "launchTimeUtc": "2026-12-04T18:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 210,
+    "initialMarketCapUsd": 6546219,
+    "liquidityUsd": 1321605,
+    "liquidityLockedPct": 43,
+    "circulatingSupplyPct": 80,
+    "vestingMonths": 3,
+    "auditStatus": "audited",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 8680,
+      "searchTrendIndex": 79,
+      "holderGrowthPct24h": 0.41,
+      "heatScore": 66
+    },
+    "riskScore": 49,
+    "riskLevel": "medium",
+    "opportunityScore": 55,
+    "estimatedValueUsd": 7659076,
+    "estimatedValue": {
+      "fairMarketCapUsd": 7659076,
+      "upsideMultiple": 1.17,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-015",
+    "rank": 100,
+    "name": "ZeroLink",
+    "symbol": "ZERO2",
+    "chain": "Sui",
+    "category": "Infra",
+    "narrative": "L2 / data / interoperability infra",
+    "launchTimeUtc": "2026-11-23T17:00:00.000Z",
+    "launchStatus": "ended",
+    "hoursToLaunch": -55,
+    "initialMarketCapUsd": 68695240,
+    "liquidityUsd": 17044348,
+    "liquidityLockedPct": 65,
+    "circulatingSupplyPct": 35,
+    "vestingMonths": 6,
+    "auditStatus": "none",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 2996,
+      "searchTrendIndex": 34,
+      "holderGrowthPct24h": 23.89,
+      "heatScore": 47
+    },
+    "riskScore": 47,
+    "riskLevel": "medium",
+    "opportunityScore": 54,
+    "estimatedValueUsd": 59077906,
+    "estimatedValue": {
+      "fairMarketCapUsd": 59077906,
+      "upsideMultiple": 0.86,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Staged over 24h",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-021",
+    "rank": 101,
+    "name": "BrickTrust",
+    "symbol": "BRIC",
+    "chain": "Solana",
+    "category": "RWA",
+    "narrative": "Real-world asset tokenisation",
+    "launchTimeUtc": "2026-11-28T09:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 57,
+    "initialMarketCapUsd": 13900071,
+    "liquidityUsd": 3468627,
+    "liquidityLockedPct": 38,
+    "circulatingSupplyPct": 9,
+    "vestingMonths": 6,
+    "auditStatus": "partial",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 14050,
+      "searchTrendIndex": 24,
+      "holderGrowthPct24h": 152.45,
+      "heatScore": 63
+    },
+    "riskScore": 54,
+    "riskLevel": "medium",
+    "opportunityScore": 54,
+    "estimatedValueUsd": 20572105,
+    "estimatedValue": {
+      "fairMarketCapUsd": 20572105,
+      "upsideMultiple": 1.48,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-041",
+    "rank": 102,
+    "name": "GoldAssets",
+    "symbol": "GOLD",
+    "chain": "Ethereum",
+    "category": "RWA",
+    "narrative": "Real-world asset tokenisation",
+    "launchTimeUtc": "2026-12-02T01:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 145,
+    "initialMarketCapUsd": 21843667,
+    "liquidityUsd": 9270307,
+    "liquidityLockedPct": 24,
+    "circulatingSupplyPct": 81,
+    "vestingMonths": 12,
+    "auditStatus": "partial",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 9699,
+      "searchTrendIndex": 3,
+      "holderGrowthPct24h": 145.87,
+      "heatScore": 52
+    },
+    "riskScore": 53,
+    "riskLevel": "medium",
+    "opportunityScore": 54,
+    "estimatedValueUsd": 20533047,
+    "estimatedValue": {
+      "fairMarketCapUsd": 20533047,
+      "upsideMultiple": 0.94,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-089",
+    "rank": 103,
+    "name": "EstateLedger",
+    "symbol": "ESTA",
+    "chain": "Ethereum",
+    "category": "RWA",
+    "narrative": "Real-world asset tokenisation",
+    "launchTimeUtc": "2026-11-23T17:00:00.000Z",
+    "launchStatus": "ended",
+    "hoursToLaunch": -55,
+    "initialMarketCapUsd": 58195759,
+    "liquidityUsd": 3188098,
+    "liquidityLockedPct": 38,
+    "circulatingSupplyPct": 88,
+    "vestingMonths": 6,
+    "auditStatus": "partial",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 10324,
+      "searchTrendIndex": 38,
+      "holderGrowthPct24h": 57.99,
+      "heatScore": 60
+    },
+    "riskScore": 49,
+    "riskLevel": "medium",
+    "opportunityScore": 54,
+    "estimatedValueUsd": 69834911,
+    "estimatedValue": {
+      "fairMarketCapUsd": 69834911,
+      "upsideMultiple": 1.2,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Staged over 24h",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-052",
+    "rank": 104,
+    "name": "SynapseLabs",
+    "symbol": "SYNA",
+    "chain": "Arbitrum",
+    "category": "AI",
+    "narrative": "AI agents / inference network",
+    "launchTimeUtc": "2026-11-30T23:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 119,
+    "initialMarketCapUsd": 84542611,
+    "liquidityUsd": 32299361,
+    "liquidityLockedPct": 62,
+    "circulatingSupplyPct": 74,
+    "vestingMonths": 3,
+    "auditStatus": "partial",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 37311,
+      "searchTrendIndex": 8,
+      "holderGrowthPct24h": 20.87,
+      "heatScore": 43
+    },
+    "riskScore": 44,
+    "riskLevel": "medium",
+    "opportunityScore": 53,
+    "estimatedValueUsd": 71015793,
+    "estimatedValue": {
+      "fairMarketCapUsd": 71015793,
+      "upsideMultiple": 0.84,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-067",
+    "rank": 105,
+    "name": "HarvestTrust",
+    "symbol": "HARV",
+    "chain": "Sui",
+    "category": "RWA",
+    "narrative": "Real-world asset tokenisation",
+    "launchTimeUtc": "2026-12-03T21:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 189,
+    "initialMarketCapUsd": 79489314,
+    "liquidityUsd": 22007148,
+    "liquidityLockedPct": 5,
+    "circulatingSupplyPct": 45,
+    "vestingMonths": 24,
+    "auditStatus": "none",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 32525,
+      "searchTrendIndex": 40,
+      "holderGrowthPct24h": 9.85,
+      "heatScore": 55
+    },
+    "riskScore": 63,
+    "riskLevel": "high",
+    "opportunityScore": 53,
+    "estimatedValueUsd": 62796558,
+    "estimatedValue": {
+      "fairMarketCapUsd": 62796558,
+      "upsideMultiple": 0.79,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Wait for post-launch dip",
+      "suggestedAllocationPct": 1,
+      "entryWindow": "First 15 minutes, limit orders only",
+      "actions": [
+        "Cap position at 1% of farm budget",
+        "Pre-set staged sell orders",
+        "No leverage, no chasing green candles"
+      ],
+      "exitRule": "Sell 50% at 2x, remainder at 3x or on risk score rising above 80",
+      "reviewCadence": "Hourly for first 24h, then daily"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-079",
+    "rank": 106,
+    "name": "MoonFrog",
+    "symbol": "MOON",
+    "chain": "Aptos",
+    "category": "Meme",
+    "narrative": "Community meme token",
+    "launchTimeUtc": "2026-12-02T21:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 165,
+    "initialMarketCapUsd": 25547731,
+    "liquidityUsd": 2654150,
+    "liquidityLockedPct": 29,
+    "circulatingSupplyPct": 38,
+    "vestingMonths": 12,
+    "auditStatus": "audited",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 45000,
+      "searchTrendIndex": 46,
+      "holderGrowthPct24h": -0.79,
+      "heatScore": 56
+    },
+    "riskScore": 48,
+    "riskLevel": "medium",
+    "opportunityScore": 52,
+    "estimatedValueUsd": 32445618,
+    "estimatedValue": {
+      "fairMarketCapUsd": 32445618,
+      "upsideMultiple": 1.27,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-113",
+    "rank": 107,
+    "name": "DogeCat",
+    "symbol": "DOGE2",
+    "chain": "Base",
+    "category": "Meme",
+    "narrative": "Community meme token",
+    "launchTimeUtc": "2026-11-28T05:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 53,
+    "initialMarketCapUsd": 19985996,
+    "liquidityUsd": 2740789,
+    "liquidityLockedPct": 67,
+    "circulatingSupplyPct": 32,
+    "vestingMonths": 24,
+    "auditStatus": "none",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 16759,
+      "searchTrendIndex": 37,
+      "holderGrowthPct24h": 58.25,
+      "heatScore": 61
+    },
+    "riskScore": 56,
+    "riskLevel": "high",
+    "opportunityScore": 52,
+    "estimatedValueUsd": 21385016,
+    "estimatedValue": {
+      "fairMarketCapUsd": 21385016,
+      "upsideMultiple": 1.07,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Small snipe + fast ladder-out",
+      "suggestedAllocationPct": 1,
+      "entryWindow": "First 15 minutes, limit orders only",
+      "actions": [
+        "Cap position at 1% of farm budget",
+        "Pre-set staged sell orders",
+        "No leverage, no chasing green candles"
+      ],
+      "exitRule": "Sell 50% at 2x, remainder at 3x or on risk score rising above 80",
+      "reviewCadence": "Hourly for first 24h, then daily"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-014",
+    "rank": 108,
+    "name": "BrickLedger",
+    "symbol": "BRIC",
+    "chain": "Avalanche",
+    "category": "RWA",
+    "narrative": "Real-world asset tokenisation",
+    "launchTimeUtc": "2026-11-26T00:00:00.000Z",
+    "launchStatus": "live",
+    "hoursToLaunch": 0,
+    "initialMarketCapUsd": 49670633,
+    "liquidityUsd": 4971329,
+    "liquidityLockedPct": 83,
+    "circulatingSupplyPct": 49,
+    "vestingMonths": 6,
+    "auditStatus": "unknown",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 10271,
+      "searchTrendIndex": 18,
+      "holderGrowthPct24h": 29.42,
+      "heatScore": 45
+    },
+    "riskScore": 38,
+    "riskLevel": "medium",
+    "opportunityScore": 51,
+    "estimatedValueUsd": 48677220,
+    "estimatedValue": {
+      "fairMarketCapUsd": 48677220,
+      "upsideMultiple": 0.98,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Staged over 24h",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-029",
+    "rank": 109,
+    "name": "EstateRWA",
+    "symbol": "ESTA2",
+    "chain": "BNB Chain",
+    "category": "RWA",
+    "narrative": "Real-world asset tokenisation",
+    "launchTimeUtc": "2026-11-23T06:00:00.000Z",
+    "launchStatus": "ended",
+    "hoursToLaunch": -66,
+    "initialMarketCapUsd": 64072123,
+    "liquidityUsd": 15426574,
+    "liquidityLockedPct": 29,
+    "circulatingSupplyPct": 30,
+    "vestingMonths": 0,
+    "auditStatus": "unknown",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 9970,
+      "searchTrendIndex": 7,
+      "holderGrowthPct24h": 117.94,
+      "heatScore": 54
+    },
+    "riskScore": 68,
+    "riskLevel": "high",
+    "opportunityScore": 51,
+    "estimatedValueUsd": 72401499,
+    "estimatedValue": {
+      "fairMarketCapUsd": 72401499,
+      "upsideMultiple": 1.13,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Wait for post-launch dip",
+      "suggestedAllocationPct": 1,
+      "entryWindow": "On a 20-30% pullback from launch high",
+      "actions": [
+        "Cap position at 1% of farm budget",
+        "Pre-set staged sell orders",
+        "No leverage, no chasing green candles"
+      ],
+      "exitRule": "Sell 50% at 2x, remainder at 3x or on risk score rising above 80",
+      "reviewCadence": "Hourly for first 24h, then daily"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-054",
+    "rank": 110,
+    "name": "QuestGG",
+    "symbol": "QUES",
+    "chain": "Sui",
+    "category": "Gaming",
+    "narrative": "On-chain game / game studio token",
+    "launchTimeUtc": "2026-12-02T23:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 167,
+    "initialMarketCapUsd": 17296671,
+    "liquidityUsd": 2472426,
+    "liquidityLockedPct": 43,
+    "circulatingSupplyPct": 66,
+    "vestingMonths": 12,
+    "auditStatus": "none",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 31042,
+      "searchTrendIndex": 43,
+      "holderGrowthPct24h": 67.29,
+      "heatScore": 67
+    },
+    "riskScore": 66,
+    "riskLevel": "high",
+    "opportunityScore": 51,
+    "estimatedValueUsd": 16604804,
+    "estimatedValue": {
+      "fairMarketCapUsd": 16604804,
+      "upsideMultiple": 0.96,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Small snipe + fast ladder-out",
+      "suggestedAllocationPct": 1,
+      "entryWindow": "First 15 minutes, limit orders only",
+      "actions": [
+        "Cap position at 1% of farm budget",
+        "Pre-set staged sell orders",
+        "No leverage, no chasing green candles"
+      ],
+      "exitRule": "Sell 50% at 2x, remainder at 3x or on risk score rising above 80",
+      "reviewCadence": "Hourly for first 24h, then daily"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-039",
+    "rank": 111,
+    "name": "PepeCoin",
+    "symbol": "PEPE",
+    "chain": "Avalanche",
+    "category": "Meme",
+    "narrative": "Community meme token",
+    "launchTimeUtc": "2026-12-01T23:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 143,
+    "initialMarketCapUsd": 9575138,
+    "liquidityUsd": 625960,
+    "liquidityLockedPct": 3,
+    "circulatingSupplyPct": 53,
+    "vestingMonths": 18,
+    "auditStatus": "none",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 30511,
+      "searchTrendIndex": 37,
+      "holderGrowthPct24h": 118.19,
+      "heatScore": 71
+    },
+    "riskScore": 71,
+    "riskLevel": "high",
+    "opportunityScore": 50,
+    "estimatedValueUsd": 10149646,
+    "estimatedValue": {
+      "fairMarketCapUsd": 10149646,
+      "upsideMultiple": 1.06,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Small snipe + fast ladder-out",
+      "suggestedAllocationPct": 1,
+      "entryWindow": "First 15 minutes, limit orders only",
+      "actions": [
+        "Cap position at 1% of farm budget",
+        "Pre-set staged sell orders",
+        "No leverage, no chasing green candles"
+      ],
+      "exitRule": "Sell 50% at 2x, remainder at 3x or on risk score rising above 80",
+      "reviewCadence": "Hourly for first 24h, then daily"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-068",
+    "rank": 112,
+    "name": "HyperBridge",
+    "symbol": "HYPE",
+    "chain": "Arbitrum",
+    "category": "Infra",
+    "narrative": "L2 / data / interoperability infra",
+    "launchTimeUtc": "2026-11-24T13:00:00.000Z",
+    "launchStatus": "ended",
+    "hoursToLaunch": -35,
+    "initialMarketCapUsd": 28592119,
+    "liquidityUsd": 11917704,
+    "liquidityLockedPct": 41,
+    "circulatingSupplyPct": 59,
+    "vestingMonths": 18,
+    "auditStatus": "unknown",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 39828,
+      "searchTrendIndex": 13,
+      "holderGrowthPct24h": 27.75,
+      "heatScore": 46
+    },
+    "riskScore": 62,
+    "riskLevel": "high",
+    "opportunityScore": 49,
+    "estimatedValueUsd": 28020277,
+    "estimatedValue": {
+      "fairMarketCapUsd": 28020277,
+      "upsideMultiple": 0.98,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Wait for post-launch dip",
+      "suggestedAllocationPct": 1,
+      "entryWindow": "On a 20-30% pullback from launch high",
+      "actions": [
+        "Cap position at 1% of farm budget",
+        "Pre-set staged sell orders",
+        "No leverage, no chasing green candles"
+      ],
+      "exitRule": "Sell 50% at 2x, remainder at 3x or on risk score rising above 80",
+      "reviewCadence": "Hourly for first 24h, then daily"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-087",
+    "rank": 113,
+    "name": "MoonCoin",
+    "symbol": "MOON",
+    "chain": "Avalanche",
+    "category": "Meme",
+    "narrative": "Community meme token",
+    "launchTimeUtc": "2026-11-25T11:00:00.000Z",
+    "launchStatus": "live",
+    "hoursToLaunch": -13,
+    "initialMarketCapUsd": 858544,
+    "liquidityUsd": 110758,
+    "liquidityLockedPct": 13,
+    "circulatingSupplyPct": 67,
+    "vestingMonths": 0,
+    "auditStatus": "partial",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 29743,
+      "searchTrendIndex": 64,
+      "holderGrowthPct24h": 32.93,
+      "heatScore": 70
+    },
+    "riskScore": 70,
+    "riskLevel": "high",
+    "opportunityScore": 49,
+    "estimatedValueUsd": 1176205,
+    "estimatedValue": {
+      "fairMarketCapUsd": 1176205,
+      "upsideMultiple": 1.37,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Small snipe + fast ladder-out",
+      "suggestedAllocationPct": 1,
+      "entryWindow": "On a 20-30% pullback from launch high",
+      "actions": [
+        "Cap position at 1% of farm budget",
+        "Pre-set staged sell orders",
+        "No leverage, no chasing green candles"
+      ],
+      "exitRule": "Sell 50% at 2x, remainder at 3x or on risk score rising above 80",
+      "reviewCadence": "Hourly for first 24h, then daily"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-104",
+    "rank": 114,
+    "name": "GoldLedger",
+    "symbol": "GOLD",
+    "chain": "Avalanche",
+    "category": "RWA",
+    "narrative": "Real-world asset tokenisation",
+    "launchTimeUtc": "2026-11-23T08:00:00.000Z",
+    "launchStatus": "ended",
+    "hoursToLaunch": -64,
+    "initialMarketCapUsd": 17424237,
+    "liquidityUsd": 3589114,
+    "liquidityLockedPct": 93,
+    "circulatingSupplyPct": 88,
+    "vestingMonths": 36,
+    "auditStatus": "unknown",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 41848,
+      "searchTrendIndex": 22,
+      "holderGrowthPct24h": 18.61,
+      "heatScore": 49
+    },
+    "riskScore": 46,
+    "riskLevel": "medium",
+    "opportunityScore": 49,
+    "estimatedValueUsd": 22825750,
+    "estimatedValue": {
+      "fairMarketCapUsd": 22825750,
+      "upsideMultiple": 1.31,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Staged over 24h",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-005",
+    "rank": 115,
+    "name": "DeltaFi",
+    "symbol": "DELT",
+    "chain": "BNB Chain",
+    "category": "DeFi",
+    "narrative": "DEX / lending / yield protocol",
+    "launchTimeUtc": "2026-11-30T06:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 102,
+    "initialMarketCapUsd": 210003,
+    "liquidityUsd": 87970,
+    "liquidityLockedPct": 89,
+    "circulatingSupplyPct": 34,
+    "vestingMonths": 36,
+    "auditStatus": "partial",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 30244,
+      "searchTrendIndex": 18,
+      "holderGrowthPct24h": 14.03,
+      "heatScore": 45
+    },
+    "riskScore": 33,
+    "riskLevel": "low",
+    "opportunityScore": 48,
+    "estimatedValueUsd": 201603,
+    "estimatedValue": {
+      "fairMarketCapUsd": 201603,
+      "upsideMultiple": 0.96,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Core farm — staged entry + LP / staking",
+      "suggestedAllocationPct": 5,
+      "entryWindow": "Launch day, staged",
+      "actions": [
+        "Enter in 3 tranches",
+        "Stake / LP the core position for yield",
+        "Farm official points programme if present"
+      ],
+      "exitRule": "Hold core; rebalance if position exceeds 8% of budget or fundamentals change",
+      "reviewCadence": "Weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-076",
+    "rank": 116,
+    "name": "RollLayer",
+    "symbol": "ROLL",
+    "chain": "Sui",
+    "category": "Infra",
+    "narrative": "L2 / data / interoperability infra",
+    "launchTimeUtc": "2026-11-26T15:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 15,
+    "initialMarketCapUsd": 29549840,
+    "liquidityUsd": 11026508,
+    "liquidityLockedPct": 5,
+    "circulatingSupplyPct": 42,
+    "vestingMonths": 24,
+    "auditStatus": "audited",
+    "teamDoxxed": true,
+    "heat": {
+      "socialMentions24h": 2376,
+      "searchTrendIndex": 7,
+      "holderGrowthPct24h": -5.77,
+      "heatScore": 29
+    },
+    "riskScore": 39,
+    "riskLevel": "medium",
+    "opportunityScore": 47,
+    "estimatedValueUsd": 22162380,
+    "estimatedValue": {
+      "fairMarketCapUsd": 22162380,
+      "upsideMultiple": 0.75,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Staged entry + points/airdrop farm where offered",
+      "suggestedAllocationPct": 3,
+      "entryWindow": "Launch + first hour, in 3 tranches",
+      "actions": [
+        "Enter in 3 equal tranches",
+        "Complete official points/quest tasks if any",
+        "Provide LP only if lock >= 80% and fees justify impermanent loss"
+      ],
+      "exitRule": "Trim 30% at 2.5x, trail the rest with a 25% stop from peak",
+      "reviewCadence": "Daily for first week, then weekly"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-071",
+    "rank": 117,
+    "name": "RelayWorks",
+    "symbol": "RELA2",
+    "chain": "Ethereum",
+    "category": "DePIN",
+    "narrative": "Decentralised physical infrastructure",
+    "launchTimeUtc": "2026-12-04T07:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 199,
+    "initialMarketCapUsd": 17825724,
+    "liquidityUsd": 7760168,
+    "liquidityLockedPct": 19,
+    "circulatingSupplyPct": 84,
+    "vestingMonths": 6,
+    "auditStatus": "none",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 25763,
+      "searchTrendIndex": 6,
+      "holderGrowthPct24h": 67.4,
+      "heatScore": 50
+    },
+    "riskScore": 70,
+    "riskLevel": "high",
+    "opportunityScore": 46,
+    "estimatedValueUsd": 12656264,
+    "estimatedValue": {
+      "fairMarketCapUsd": 12656264,
+      "upsideMultiple": 0.71,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Wait for post-launch dip",
+      "suggestedAllocationPct": 1,
+      "entryWindow": "First 15 minutes, limit orders only",
+      "actions": [
+        "Cap position at 1% of farm budget",
+        "Pre-set staged sell orders",
+        "No leverage, no chasing green candles"
+      ],
+      "exitRule": "Sell 50% at 2x, remainder at 3x or on risk score rising above 80",
+      "reviewCadence": "Hourly for first 24h, then daily"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-050",
+    "rank": 118,
+    "name": "OmniLayer",
+    "symbol": "OMNI2",
+    "chain": "Solana",
+    "category": "Infra",
+    "narrative": "L2 / data / interoperability infra",
+    "launchTimeUtc": "2026-11-23T02:00:00.000Z",
+    "launchStatus": "ended",
+    "hoursToLaunch": -70,
+    "initialMarketCapUsd": 22250966,
+    "liquidityUsd": 2584273,
+    "liquidityLockedPct": 34,
+    "circulatingSupplyPct": 19,
+    "vestingMonths": 0,
+    "auditStatus": "none",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 25002,
+      "searchTrendIndex": 11,
+      "holderGrowthPct24h": 85.29,
+      "heatScore": 56
+    },
+    "riskScore": 89,
+    "riskLevel": "extreme",
+    "opportunityScore": 37,
+    "estimatedValueUsd": 13350580,
+    "estimatedValue": {
+      "fairMarketCapUsd": 13350580,
+      "upsideMultiple": 0.6,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Monitor only — do not allocate",
+      "suggestedAllocationPct": 0,
+      "entryWindow": "No entry planned; revisit only if audit + lock improve",
+      "actions": [
+        "Add to watchlist",
+        "Verify audit and liquidity lock manually",
+        "Set alert for post-launch holder growth"
+      ],
+      "exitRule": "N/A — no position",
+      "reviewCadence": "Weekly re-check of risk inputs"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-020",
+    "rank": 119,
+    "name": "WifCat",
+    "symbol": "WIFC",
+    "chain": "BNB Chain",
+    "category": "Meme",
+    "narrative": "Community meme token",
+    "launchTimeUtc": "2026-11-29T12:00:00.000Z",
+    "launchStatus": "upcoming",
+    "hoursToLaunch": 84,
+    "initialMarketCapUsd": 568149,
+    "liquidityUsd": 199316,
+    "liquidityLockedPct": 41,
+    "circulatingSupplyPct": 9,
+    "vestingMonths": 12,
+    "auditStatus": "none",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 39763,
+      "searchTrendIndex": 16,
+      "holderGrowthPct24h": 89.65,
+      "heatScore": 60
+    },
+    "riskScore": 97,
+    "riskLevel": "extreme",
+    "opportunityScore": 34,
+    "estimatedValueUsd": 392023,
+    "estimatedValue": {
+      "fairMarketCapUsd": 392023,
+      "upsideMultiple": 0.69,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Monitor only — do not allocate",
+      "suggestedAllocationPct": 0,
+      "entryWindow": "No entry planned; revisit only if audit + lock improve",
+      "actions": [
+        "Add to watchlist",
+        "Verify audit and liquidity lock manually",
+        "Set alert for post-launch holder growth"
+      ],
+      "exitRule": "N/A — no position",
+      "reviewCadence": "Weekly re-check of risk inputs"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  },
+  {
+    "id": "sim-047",
+    "rank": 120,
+    "name": "BonkCoin",
+    "symbol": "BONK",
+    "chain": "Arbitrum",
+    "category": "Meme",
+    "narrative": "Community meme token",
+    "launchTimeUtc": "2026-11-23T13:00:00.000Z",
+    "launchStatus": "ended",
+    "hoursToLaunch": -59,
+    "initialMarketCapUsd": 11016714,
+    "liquidityUsd": 2473200,
+    "liquidityLockedPct": 39,
+    "circulatingSupplyPct": 29,
+    "vestingMonths": 12,
+    "auditStatus": "none",
+    "teamDoxxed": false,
+    "heat": {
+      "socialMentions24h": 33724,
+      "searchTrendIndex": 6,
+      "holderGrowthPct24h": 0.26,
+      "heatScore": 38
+    },
+    "riskScore": 78,
+    "riskLevel": "extreme",
+    "opportunityScore": 31,
+    "estimatedValueUsd": 7160864,
+    "estimatedValue": {
+      "fairMarketCapUsd": 7160864,
+      "upsideMultiple": 0.65,
+      "method": "heat/liquidity-supported fair-cap multiple, discounted by risk score (see README)"
+    },
+    "farmPlan": {
+      "strategy": "Monitor only — do not allocate",
+      "suggestedAllocationPct": 0,
+      "entryWindow": "No entry planned; revisit only if audit + lock improve",
+      "actions": [
+        "Add to watchlist",
+        "Verify audit and liquidity lock manually",
+        "Set alert for post-launch holder growth"
+      ],
+      "exitRule": "N/A — no position",
+      "reviewCadence": "Weekly re-check of risk inputs"
+    },
+    "dataNote": "Simulated example data for demonstration only — not real on-chain data, not financial advice."
+  }
+]
